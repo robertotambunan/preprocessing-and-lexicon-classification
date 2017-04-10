@@ -34,12 +34,11 @@ def convertWord(sentence):
 			temp_symbol += symbol+" "
 	factory = StemmerFactory()
 	stemmer = factory.create_stemmer()
-	connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "dictionary")
-	connection2 = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "nonbaku")
+
 	finalSentence = ""
 	words = sentence.split()   
 	for word in words:
-		
+		connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
 		cursor = connection.cursor ()
 		cursor.execute("SELECT count(*) FROM dictionary WHERE word='%s' "% (word))
 		data = cursor.fetchall()
@@ -59,10 +58,9 @@ def convertWord(sentence):
 						#print "setelah di stem jadi '" + stemWord + "' ada"
 						finalSentence = finalSentence + word + " "
 					else:
-						cursorNonBaku = connection2.cursor()
-						cursorNonBaku.execute("SELECT baku FROM katanonbaku WHERE nonbaku='%s' "% (word))
-						dataNonBaku = cursorNonBaku.fetchall()
-						if not cursorNonBaku.rowcount:
+						cursor.execute("SELECT baku FROM katanonbaku WHERE nonbaku='%s' "% (word))
+						dataNonBaku = cursor.fetchall()
+						if not cursor.rowcount:
 							f.write(word+"\n")
 						for rowNonBaku in dataNonBaku:
 							finalSentence = finalSentence + rowNonBaku[0] + " "
@@ -78,7 +76,7 @@ def removeStopword(tweet):
 	for symbol in symbols:
 		if symbol in sentence:
 			temp_symbol += symbol+" "
-	connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "dictionary")
+	connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
 	words = tweet.split()
 	tempWord = ""
 	for word in words:
@@ -107,17 +105,13 @@ def stemming(tweet):
 
 
 #Main Driver
-connectionIns = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
-cursorIns = connectionIns.cursor()
+connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
+cursor = connection.cursor()
 
 
-connectionFinal = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
-cursorFinal = connectionFinal.cursor()
-cursorFinal.execute("SELECT tweets, id_tweetmentah FROM tweetmentah")
-dataFinal = cursorFinal.fetchall()
+cursor.execute("SELECT tweets, id_tweetmentah FROM tweetmentah")
+dataFinal = cursor.fetchall()
 count = 0
-connectionKamus = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "dictionary")
-cursorKamus = connectionKamus.cursor()
 for rowFinal in dataFinal:
 	if count==8000:
 		break
@@ -161,8 +155,8 @@ for rowFinal in dataFinal:
 	idx=0
 	#Ini untuk lexiconnya.
 	for splitter in splitResult:
-		cursorKamus.execute("SELECT sentiment FROM dictionary WHERE word='%s' "% (splitter))
-		dataKamus = cursorKamus.fetchall()
+		cursor.execute("SELECT sentiment FROM dictionary WHERE word='%s' "% (splitter))
+		dataKamus = cursor.fetchall()
 		for rowKamus in dataKamus:
 			if rowKamus[0]=='positif':
 				positif+=1
@@ -218,7 +212,7 @@ for rowFinal in dataFinal:
 		skors ='1'
 	elif scoreTotal <= -0.2:
 		print "Negatif"
-		skors ='-1'
+		skors ='2'
 	else:
 		print "Neutral"
 		skors ='0'
@@ -227,17 +221,13 @@ for rowFinal in dataFinal:
 	print "Negatif: " , negatif;
 	print "Score Positif-Negatif ", scorePositif , " ", scoreNegatif, "\n"
 	print int(idTweet),stemmingResult,int(skors)
-	try:
-		cursorIns.execute("""INSERT INTO hasil (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skors)))
-		connectionIns.commit()
-	except TypeError as e:
-		print(e)
-		connectionIns.rollback()
-		print "failed"
+	#try:
+	#	cursorIns.execute("""INSERT INTO hasil (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skors)))
+	#	connectionIns.commit()
+	#except TypeError as e:
+	#	print(e)
+	#	connectionIns.rollback()
+	#	print "failed"
 		
-cursorIns.close()
-connectionIns.close()
-cursorKamus.close()
-connectionKamus.close()
-cursorFinal.close()
-connectionFinal.close()
+cursor.close()
+connection.close()
