@@ -27,7 +27,7 @@ def removeUnimportantSymbol(tweet):
 	return clean_tweet
 
 def convertWord(sentence):
-	f = open("KataBaru.txt","a+")
+	f = open("KataBaru1.txt","a+")
 	symbols = [ '>:]',':-)',':)',':o)',':]' ,':3',':c)',':>','=]','8)','=)',':}',':^)', '>:D',':-D',':D','8-D','8D','x-D','xD','=-D','=D','=-3','=3', ':(', ':-('];
 	temp_symbol =""
 	for symbol in symbols:
@@ -100,6 +100,8 @@ def stemming(tweet):
 	factory = StemmerFactory()
 	stemmer = factory.create_stemmer()	
 	output  = stemmer.stem(tweet)
+	if output == "riah":
+		output = meriah
 	return output + " " + temp_symbol
 
 
@@ -112,7 +114,7 @@ cursor.execute("SELECT tweets, id_tweetmentah FROM tweetmentah")
 data = cursor.fetchall()
 count = 0
 for row in data:
-	if count >=8000:
+	if count >=8000 and count < 10000:
 		idTweet = row[1]
 		sentence = row[0]
 		removeUrlResult = removeURL(sentence)
@@ -204,13 +206,13 @@ for row in data:
 			print "netral"
 			skoring = 0
 
-		#try:
-		#	cursor.execute("""INSERT INTO hasil_nb (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skoring)))
-		#	connection.commit()
-		#except TypeError as e:
-		#	print(e)
-		#	connection.rollback()
-		#	print "failed"
+		try:
+			cursor.execute("""INSERT INTO hasil_nb (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skoring)))
+			connection.commit()
+		except TypeError as e:
+			print(e)
+			connection.rollback()
+			print "failed"
 	count +=1
 
 

@@ -204,13 +204,13 @@ for row in data:
 			print "netral"
 			skoring = 0
 
-		#try:
-		#	cursor.execute("""INSERT INTO hasil_nb (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skoring)))
-		#	connection.commit()
-		#except TypeError as e:
-		#	print(e)
-		#	connection.rollback()
-		#	print "failed"
+		try:
+			cursor.execute("""INSERT INTO hasil_nb (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skoring)))
+			connection.commit()
+		except TypeError as e:
+			print(e)
+			connection.rollback()
+			print "failed"
 	count +=1
 
 

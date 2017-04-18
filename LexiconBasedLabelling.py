@@ -26,7 +26,7 @@ def removeUnimportantSymbol(tweet):
 	return clean_tweet
 
 def convertWord(sentence):
-	f = open("KataBaru.txt","a+")
+	f = open("KataBaru1.txt","a+")
 	symbols = [ '>:]',':-)',':)',':o)',':]' ,':3',':c)',':>','=]','8)','=)',':}',':^)', '>:D',':-D',':D','8-D','8D','x-D','xD','=-D','=D','=-3','=3', ':(', ':-('];
 	temp_symbol =""
 	for symbol in symbols:
@@ -66,7 +66,7 @@ def convertWord(sentence):
 							finalSentence = finalSentence + rowNonBaku[0] + " "
 
 		cursor.close()
-	connection.close()
+		connection.close()
 	f.close()
 	return finalSentence + " " + temp_symbol
 
@@ -212,7 +212,7 @@ for rowFinal in dataFinal:
 		skors ='1'
 	elif scoreTotal <= -0.2:
 		print "Negatif"
-		skors ='2'
+		skors ='-1'
 	else:
 		print "Neutral"
 		skors ='0'
@@ -220,14 +220,14 @@ for rowFinal in dataFinal:
 	print "Positif: " , positif;
 	print "Negatif: " , negatif;
 	print "Score Positif-Negatif ", scorePositif , " ", scoreNegatif, "\n"
-	print int(idTweet),stemmingResult,int(skors)
-	#try:
-	#	cursorIns.execute("""INSERT INTO hasil (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skors)))
-	#	connectionIns.commit()
-	#except TypeError as e:
-	#	print(e)
-	#	connectionIns.rollback()
-	#	print "failed"
+	#print int(idTweet),stemmingResult,int(skors)
+	try:
+		cursor.execute("""INSERT INTO hasil (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skors)))
+		connection.commit()
+	except TypeError as e:
+		print(e)
+		connection.rollback()
+		print "failed"
 		
 cursor.close()
 connection.close()
