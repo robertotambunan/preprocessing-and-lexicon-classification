@@ -112,8 +112,11 @@ cursor = connection.cursor()
 cursor.execute("SELECT tweets, id_tweetmentah FROM tweetmentah")
 dataFinal = cursor.fetchall()
 count = 0
+positifLblCnt = 0;
+negatitifLblCnt = 0;
+netralLblCnt = 0;
 for rowFinal in dataFinal:
-	if count==8000:
+	if count==11311:
 		break
 	count += 1
 	print ""
@@ -210,24 +213,29 @@ for rowFinal in dataFinal:
 	if scoreTotal >= 0.2:
 		print "Positif"
 		skors ='1'
+		positifLblCnt+=1
 	elif scoreTotal <= -0.2:
 		print "Negatif"
 		skors ='-1'
+		negatitifLblCnt+=1
 	else:
 		print "Neutral"
 		skors ='0'
+		netralLblCnt+=1
 	print scoreTotal
 	print "Positif: " , positif;
 	print "Negatif: " , negatif;
 	print "Score Positif-Negatif ", scorePositif , " ", scoreNegatif, "\n"
 	#print int(idTweet),stemmingResult,int(skors)
-	try:
-		cursor.execute("""INSERT INTO hasil (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skors)))
-		connection.commit()
-	except TypeError as e:
-		print(e)
-		connection.rollback()
-		print "failed"
-		
+	#try:
+	#	cursor.execute("""INSERT INTO hasil (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(str(idTweet),stemmingResult,str(skors)))
+	#	connection.commit()
+	#except TypeError as e:
+	#	print(e)
+	#	connection.rollback()
+	#	print "failed"
+print "Positif Label = ", positifLblCnt
+print "Negatif Label = ", negatitifLblCnt
+print "Netral Label  = ", netralLblCnt		
 cursor.close()
 connection.close()
