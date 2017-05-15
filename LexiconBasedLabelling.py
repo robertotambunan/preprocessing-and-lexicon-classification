@@ -101,8 +101,10 @@ def stemming(tweet):
 	output  = stemmer.stem(tweet)
 	return output + " " + temp_symbol
 
-
-
+#Just for Saving word in txt for reviewing
+f1 = open("LexiconPositif.txt","a+")
+f2 = open("LexiconNegatif.txt","a+")
+f3 = open("LexiconNetral.txt","a+")
 
 #Main Driver
 connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
@@ -202,6 +204,7 @@ for rowFinal in dataFinal:
 		
 		idx+=1
 
+	
 	#Menghitung
 	if float(splitResultLength)>0:
 		scorePositif = positif/float(splitResultLength)
@@ -214,14 +217,17 @@ for rowFinal in dataFinal:
 		print "Positif"
 		skors ='1'
 		positifLblCnt+=1
+		f1.write("No :"+ str(positifLblCnt) + "\nTweet : "+ sentence +"\nPreprocessing: "+ stemmingResult+"\nNilai: "+ str(scoreTotal)+ "\nKlasifikasi : Positif\n\n")
 	elif scoreTotal <= -0.2:
 		print "Negatif"
 		skors ='-1'
 		negatitifLblCnt+=1
+		f2.write("No :"+ str(negatitifLblCnt) +"\nTweet : "+ sentence +"\nPreprocessing: "+ stemmingResult+"\nNilai: "+ str(scoreTotal)+ "\nKlasifikasi : Negatif\n\n")
 	else:
 		print "Neutral"
 		skors ='0'
 		netralLblCnt+=1
+		f3.write("No :"+ str(netralLblCnt) +"\nTweet : "+ sentence +"\nPreprocessing: "+ stemmingResult+"\nNilai: "+ str(scoreTotal)+ "\nKlasifikasi : Netral\n\n")
 	print scoreTotal
 	print "Positif: " , positif;
 	print "Negatif: " , negatif;
@@ -237,5 +243,8 @@ for rowFinal in dataFinal:
 print "Positif Label = ", positifLblCnt
 print "Negatif Label = ", negatitifLblCnt
 print "Netral Label  = ", netralLblCnt		
+f1.close()
+f2.close()
+f3.close()
 cursor.close()
 connection.close()

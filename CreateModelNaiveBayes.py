@@ -3,7 +3,7 @@ import sys
 from string import digits
 import re
 
-connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
+connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining3000")
 cursor = connection.cursor()
 
 cursor.execute("SELECT tweets FROM hasil WHERE skor= 1")

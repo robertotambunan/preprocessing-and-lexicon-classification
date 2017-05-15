@@ -1,0 +1,5440 @@
+2
+Tweet :  Jan Wanner Saragih Pejabat Simalungun Resmi Ditahan Kajatisu Terkait Korupsi Pesta Danau Toba,\u2026\u2026 https://t.co/FHmEl5VFsq
+jabat resmi tahan kait korupsi danau toba 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 2.54482035355e-15
+Vmap Netral : 3.26771768843e-20
+negatif
+
+4
+Tweet :  Posting Lebih Baru https://t.co/S1IQRV3sit Harian Kompas (Jumat, 3/2/2017) memuat berita berjudul \"Konservasi Danau Toba: Produksi Ikan Bu\u2026
+baru hari muat judul danau toba 
+Vmap Positif : 6.59333741508e-17
+Vmap Negatif : 1.13570619749e-15
+Vmap Netral : 6.25107792346e-17
+negatif
+
+8
+Tweet :  ku lepas beban ini di danau toba https://t.co/L9wbSLOsYc
+lepas beban danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 4.18342438139e-10
+negatif
+
+10
+Tweet :  Ngeri ! Usai Mandi di Danau Toba Wisatawan Digerogoti Lintah hingga Masuk\u00a0UGD https://t.co/8xmBpQuN0n https://t.co/0WgAuw9wbH
+ngeri danau toba gerogot masuk 
+Vmap Positif : 1.37222336465e-13
+Vmap Negatif : 3.6993959227e-13
+Vmap Netral : 6.37834986998e-14
+negatif
+
+11
+Tweet :  Pihak Kejati Belum Terima Berkas Perkara Kasus Korupsi Pesta Danau Toba Senilai 3\u2026 https://t.co/mgkAqsWlID\u2026 https://t.co/ftuIewG72p
+kejat terima perkara kasus korupsi danau toba nila 
+Vmap Positif : 1.31339571296e-26
+Vmap Negatif : 2.23397823863e-19
+Vmap Netral : 8.17784950978e-26
+negatif
+
+12
+Tweet :  Pihak Kejati Belum Terima Berkas Perkara Kasus Korupsi Pesta Danau Toba Senilai 3 Miliar https://t.co/XjWZPwUPVF\u2026 https://t.co/56bMHPar3W
+kejat terima perkara kasus korupsi danau toba nila 
+Vmap Positif : 1.31339571296e-26
+Vmap Negatif : 2.23397823863e-19
+Vmap Netral : 8.17784950978e-26
+negatif
+
+13
+Tweet :  Pihak Kejati Belum Terima Berkas Perkara Kasus Korupsi Pesta Danau Toba Senilai 3 Miliar https://t.co/cvCfvZ5FtO\u2026 https://t.co/5ZPab038G7
+kejat terima perkara kasus korupsi danau toba nila 
+Vmap Positif : 1.31339571296e-26
+Vmap Negatif : 2.23397823863e-19
+Vmap Netral : 8.17784950978e-26
+negatif
+
+14
+Tweet :  Inilah Penyebab Danau Toba Diserbu Lintah dan\u00a0Kutu https://t.co/DXfteC1Y5o https://t.co/4f5JQuuE6z
+ini sebab danau toba serbu 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 4.43927510723e-13
+Vmap Netral : 1.15969997636e-13
+negatif
+
+15
+Tweet :  Para Wisatawan 'Diserang' Lintah Setelah Mandi Air Danau Toba, Dilarikan ke Unit\u2026 https://t.co/wxvTbWXpwI\u2026 https://t.co/AlJMqLbO80
+serang telah danau toba lari 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 6.21498515013e-12
+Vmap Netral : 2.55133994799e-13
+negatif
+
+16
+Tweet :  Para Wisatawan 'Diserang' Lintah Setelah Mandi Air Danau Toba, Dilarikan ke Unit Gawat Darurat\u2026 https://t.co/jmub5nIPae
+serang telah danau toba lari gawat darurat 
+Vmap Positif : 1.14545618113e-22
+Vmap Negatif : 2.40683453882e-17
+Vmap Netral : 4.41141887937e-20
+negatif
+
+17
+Tweet :  Para Wisatawan 'Diserang' Lintah Setelah Mandi Air Danau Toba, Dilarikan ke Unit Gawat\u2026 https://t.co/zZ1ni1tiRT\u2026 https://t.co/DG4rgBVzCZ
+serang telah danau toba lari gawat 
+Vmap Positif : 1.49848577615e-18
+Vmap Negatif : 5.3311385035e-14
+Vmap Netral : 1.06089722472e-16
+negatif
+
+18
+Tweet :  Danau Toba Semakin Tercemar Diserang Lintah dan Kutu, Pemerintah diminta Tanggungjawab https://t.co/m2bne4WBuk\u2026 https://t.co/iDl5VHSQfB
+danau toba makin cemar serang perintah minta 
+Vmap Positif : 2.41920345455e-19
+Vmap Negatif : 3.21439086435e-17
+Vmap Netral : 5.73005849203e-19
+negatif
+
+19
+Tweet :  Danau Toba Semakin Tercemar Diserang Lintah dan Kutu, Pemerintah diminta\u2026 https://t.co/5zEckPygb6 #BeritaDaerah\u2026 https://t.co/cmGH2YE3RC
+danau toba makin cemar serang perintah minta 
+Vmap Positif : 2.41920345455e-19
+Vmap Negatif : 3.21439086435e-17
+Vmap Netral : 5.73005849203e-19
+negatif
+
+20
+Tweet :  Danau Toba Semakin Tercemar Diserang Lintah dan Kutu, Pemerintah diminta\u2026 https://t.co/QMXkZbW983 #Berita_Daerah\u2026 https://t.co/DyUJlU4Keh
+danau toba makin cemar serang perintah minta 
+Vmap Positif : 2.41920345455e-19
+Vmap Negatif : 3.21439086435e-17
+Vmap Netral : 5.73005849203e-19
+negatif
+
+21
+Tweet :  Duh! Danau Toba yang Bakal Dijadikan Monaco of Asia 'Diserang' Lintah dan Kutu https://t.co/EObCcdGDQW\u2026 https://t.co/2VGkX9vDDA
+danau toba jadi serang 
+Vmap Positif : 3.52617297537e-09
+Vmap Negatif : 1.74371766695e-07
+Vmap Netral : 1.77377193771e-08
+negatif
+
+22
+Tweet :  Duh! Danau Toba yang Bakal Dijadikan Monaco of Asia 'Diserang' Lintah dan Kutu https://t.co/otp7MKc20A\u2026 https://t.co/3sRtFKBJLb
+danau toba jadi serang 
+Vmap Positif : 3.52617297537e-09
+Vmap Negatif : 1.74371766695e-07
+Vmap Netral : 1.77377193771e-08
+negatif
+
+23
+Tweet :  Duh! Danau Toba yang Bakal Dijadikan Monaco of Asia 'Diserang' Lintah dan Kutu https://t.co/nmUzhwBGK5\u2026 https://t.co/rCYvea1JOw
+danau toba jadi serang 
+Vmap Positif : 3.52617297537e-09
+Vmap Negatif : 1.74371766695e-07
+Vmap Netral : 1.77377193771e-08
+negatif
+
+26
+Tweet :  Bahaya ! Danau Toba Diserang Lintah dan\u00a0Kutu https://t.co/EoAYct0Mq1 https://t.co/DKbaOU9NcC
+bahaya danau toba serang 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 4.58873070251e-09
+Vmap Netral : 2.51005462883e-10
+negatif
+
+29
+Tweet :  Gawat ! Danau Toba Diserbu Lintah dan Kutu, Gimana Mau Jadi 'Monaco of Asia'? https://t.co/tnF5wREHq9 ...
+gawat danau toba serbu mau jadi 
+Vmap Positif : 1.85437614799e-16
+Vmap Negatif : 1.68819385944e-13
+Vmap Netral : 1.60163332533e-14
+negatif
+
+30
+Tweet :  Gawat ! Danau Toba Diserbu Lintah dan Kutu, Gimana Mau Jadi 'Monaco of Asia'? https://t.co/c0LdHYSxVa ...
+gawat danau toba serbu mau jadi 
+Vmap Positif : 1.85437614799e-16
+Vmap Negatif : 1.68819385944e-13
+Vmap Netral : 1.60163332533e-14
+negatif
+
+32
+Tweet :  Gawat ! Danau Toba Diserbu Lintah dan Kutu, Gimana Mau Jadi 'Monaco of Asia'? https://t.co/T8U0hesEnK ...
+gawat danau toba serbu mau jadi 
+Vmap Positif : 1.85437614799e-16
+Vmap Negatif : 1.68819385944e-13
+Vmap Netral : 1.60163332533e-14
+negatif
+
+33
+Tweet :  Gawat ! Danau Toba Diserbu Lintah dan Kutu, Gimana Mau Jadi 'Monaco of Asia'? https://t.co/e0XmYVnVoC ...
+gawat danau toba serbu mau jadi 
+Vmap Positif : 1.85437614799e-16
+Vmap Negatif : 1.68819385944e-13
+Vmap Netral : 1.60163332533e-14
+negatif
+
+34
+Tweet :  Gawat ! Danau Toba Diserbu Lintah dan Kutu, Gimana Mau Jadi 'Monaco of Asia'? https://t.co/jlh9pVe897 ...
+gawat danau toba serbu mau jadi 
+Vmap Positif : 1.85437614799e-16
+Vmap Negatif : 1.68819385944e-13
+Vmap Netral : 1.60163332533e-14
+negatif
+
+37
+Tweet :  RT @pelitabataks: KIP Gelar Sidang Gugatan YPDT agar Pemerintah Buka Informasi Perusahaan yang Diduga Cemari Danau Toba https://t.co/JEaH4q\u2026
+gugat perintah buka informasi usaha duga cemar danau toba 
+Vmap Positif : 2.72116476105e-26
+Vmap Negatif : 7.72159701804e-23
+Vmap Netral : 2.63407951461e-23
+negatif
+
+40
+Tweet :  Ada Lintah dan Kutu di Danau Toba, Camat Parapat: Foto Korbannya Kok Tidak Ada https://t.co/WJ19st9AaS #MedanHotNews #SelamatPagiMedan
+danau toba korban tidak 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-07
+Vmap Netral : 2.56025572141e-08
+negatif
+
+44
+Tweet :  Jadi bingung mana yg benar: Air #DanauToba yg surut atau memang daratan sekitar Danau Toba yg naik akibat tekanan magma dan tekanan endogen?
+jadi bingung benar surut darat danau toba naik tekan tekan 
+Vmap Positif : 1.80093778176e-31
+Vmap Negatif : 1.97745687379e-28
+Vmap Netral : 4.34783614841e-31
+negatif
+
+49
+Tweet :  Lintah Ditemukan di Perairan Danau Toba https://t.co/2qaIZuyD0e via @analisadaily
+temu air danau toba 
+Vmap Positif : 7.69346830989e-10
+Vmap Negatif : 2.29436535126e-08
+Vmap Netral : 1.5060327773e-08
+negatif
+
+51
+Tweet :  Danau Toba \"Monaco Of Asia\" Diserang Lintah, Lihat Penampakannya Mengerikan! https://t.co/TUpXBFkYS1 #VisitToba
+danau toba serang lihat tampak keri 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 9.35287456754e-15
+Vmap Netral : 5.65811853186e-16
+negatif
+
+52
+Tweet :  Danau Toba Diserbu Ini Dia Kata Kadis Pariwisata\u00a0Simalungun https://t.co/WmZhevBdL8 https://t.co/8gaMGeF2ht
+danau toba serbu kad 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.63883239375e-09
+Vmap Netral : 3.34673950511e-10
+negatif
+
+53
+Tweet :  Ngangkat cerita rakyat danau toba tp dibikin realistik dan agak kelam, macam disney dg dongeng2nya skrg. Malin Kundang? Lutung\u2026 https://t.co/iLv4LFQHRM
+angkat cerita rakyat danau toba bikin kelam dongeng 
+Vmap Positif : 8.31817284875e-26
+Vmap Negatif : 1.70207865801e-24
+Vmap Netral : 4.66652111887e-25
+negatif
+
+64
+Tweet :  Save Lake Toba | Mengerikan DANAU TOBA Dipenuhi LIMBAH Pakan dan Kotoran... https://t.co/toldanilEO lewat @YouTube
+toba keri danau toba penuh limbah kotor 
+Vmap Positif : 6.76964603048e-20
+Vmap Negatif : 1.39116845994e-16
+Vmap Netral : 2.74655385028e-18
+negatif
+
+66
+Tweet :  RT @odahrasyidah: Biar setinggi gunung merapi,seluas danau toba,tapi karna janji mati,aku pasti tiba.
+rapi luas danau toba janji mati pasti 
+Vmap Positif : 9.07201295455e-20
+Vmap Negatif : 1.40247877262e-18
+Vmap Netral : 3.19138842424e-19
+negatif
+
+67
+Tweet :  Biar setinggi gunung merapi,seluas danau toba,tapi karna janji mati,aku pasti tiba.
+rapi luas danau toba janji mati pasti 
+Vmap Positif : 9.07201295455e-20
+Vmap Negatif : 1.40247877262e-18
+Vmap Netral : 3.19138842424e-19
+negatif
+
+69
+Tweet :  kehujanan \u2614\ufe0f (with Elysabeth, Bondan, and Guruh Julio at GBI Rayon IV (Hotel Danau Toba International)) \u2014 https://t.co/jcaD5wxo2r
+hujan danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+78
+Tweet :  Bahaya ! Wisatawan di Danau Toba Diserang Lintah dan Kutu https://t.co/DAjbQHn87Y ...
+bahaya danau toba serang 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 4.58873070251e-09
+Vmap Netral : 2.51005462883e-10
+negatif
+
+99
+Tweet :  Warga Membantah Lintah \u2018Kuasai\u2019 Danau Toba https://t.co/hjorFeOFNC https://t.co/cSbuLj0WGp
+ban danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+104
+Tweet :  Gawat, Danau Toba yang Akan Dijadikan Monaco of Asia Diserang Lintah dan Kutu https://t.co/xkUDEiZezL #MedanKotaKita #SelamatPagiMedan
+gawat danau toba jadi serang 
+Vmap Positif : 2.695438752e-13
+Vmap Negatif : 1.49573975946e-09
+Vmap Netral : 7.37569184965e-12
+negatif
+
+106
+Tweet :  Danau Toba 'Monaco Of Asia' Diserang Lintah, Lihat Penampakannya Mengerikan! https://t.co/miZnGVyVb5 https://t.co/MgIO8fasH6
+danau toba serang lihat tampak keri 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 9.35287456754e-15
+Vmap Netral : 5.65811853186e-16
+negatif
+
+107
+Tweet :  Danau Toba 'Monaco Of Asia' Diserang Lintah, Lihat Penampakannya Mengerikan! https://t.co/YQ0yOo7RGK https://t.co/1IoOyiXuzd
+danau toba serang lihat tampak keri 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 9.35287456754e-15
+Vmap Netral : 5.65811853186e-16
+negatif
+
+108
+Tweet :  Danau Toba 'Monaco Of Asia' Diserang Lintah, Lihat Penampakannya Mengerikan! https://t.co/ig78RY0m9P https://t.co/rQYa8iyLHs
+danau toba serang lihat tampak keri 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 9.35287456754e-15
+Vmap Netral : 5.65811853186e-16
+negatif
+
+109
+Tweet :  Danau Toba 'Monaco Of Asia' Diserang Lintah, Lihat Penampakannya Mengerikan! https://t.co/4aPxpEAxFk https://t.co/YxNGkvtjSN
+danau toba serang lihat tampak keri 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 9.35287456754e-15
+Vmap Netral : 5.65811853186e-16
+negatif
+
+110
+Tweet :  \u2665 https://t.co/fdwCkIMI9M \u2190\u2190 #bokep3gp #bokep #bokepnormal Kawan Mantap Brazzers Panas Abis Danau Toba \u2018Monaco Of Asia\u2019 Diserang Lintah, L\u2026
+kawan mantap panas abis danau toba serang 
+Vmap Positif : 7.78910203168e-21
+Vmap Negatif : 3.16688755109e-19
+Vmap Netral : 4.72003666106e-21
+negatif
+
+111
+Tweet :  Di Puncak Sipolha, di tepian danau toba. Langit cerah, bintang gemintang &amp; bulan sabit tampak jelas. Angin semilir, sejuk. Subhanallah
+tepi danau toba cerah tampak milir sejuk 
+Vmap Positif : 3.66545977961e-21
+Vmap Negatif : 7.54020845496e-20
+Vmap Netral : 9.90217481341e-21
+negatif
+
+116
+Tweet :  Pulang ke teratak, mandi, sujud, dan kini menghirup secangkir kopi asli dari Danau Toba. Terima kasih @Syafie11 atas pemberian ini.
+hirup cangkir asli danau toba terima kasih atas beri 
+Vmap Positif : 1.45776683628e-27
+Vmap Negatif : 1.53686560542e-27
+Vmap Netral : 1.76146611254e-29
+negatif
+
+119
+Tweet :  6 Hal Mengerikan Jika Gunung Danau Toba Meletus Dan Gempa Di Kota Medan - SekopPoker https://t.co/NBNksF0mjM
+keri danau toba letus 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-08
+Vmap Netral : 8.28318027515e-09
+negatif
+
+123
+Tweet :  Menjawab Bantahan Camat Parapat.\nEnggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya.... https://t.co/583rLAdnSH lewat @tribunmedan
+jawab bantah percaya danau toba bukti 
+Vmap Positif : 1.87310722019e-18
+Vmap Negatif : 6.6806246911e-17
+Vmap Netral : 1.28593602997e-17
+negatif
+
+124
+Tweet :  Ada Lintah dan Kutu di Danau Toba, Camat Parapat: Foto Korbannya Kok Tidak Ada https://t.co/9jrCnMUlmk lewat @tribunmedan
+danau toba korban tidak 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-07
+Vmap Netral : 2.56025572141e-08
+negatif
+
+125
+Tweet :  Ada Lintah dan Kutu di Danau Toba, Camat Parapat: Foto Korbannya Kok Tidak Ada https://t.co/PF2TcRFY4C
+danau toba korban tidak 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-07
+Vmap Netral : 2.56025572141e-08
+negatif
+
+126
+Tweet :  Ada Lintah dan Kutu di Danau Toba, Camat Parapat: Foto Korbannya Kok Tidak Ada https://t.co/AQiHoNrQTT https://t.co/O4Ky8E95JJ
+danau toba korban tidak 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-07
+Vmap Netral : 2.56025572141e-08
+negatif
+
+133
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/Y1DAlTwcLt
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+137
+Tweet :  @Serendelight mphii butuh aer danau toba,  d minum coba mphii... xD \naer mendidih... matilah tuh mphisang -_-
+butuh danau toba didih mati xd xD 
+Vmap Positif : 2.14773033962e-21
+Vmap Negatif : 2.62964769867e-17
+Vmap Netral : 2.27956316017e-18
+negatif
+
+138
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba https://t.co/22oWfmNYpd
+masih nyaman renang danau toba 
+Vmap Positif : 3.96964616204e-12
+Vmap Negatif : 9.61842939901e-12
+Vmap Netral : 7.13215485461e-13
+negatif
+
+139
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba https://t.co/YBOwV1xCWA https://t.co/QkAkJ2xNgB
+masih nyaman renang danau toba 
+Vmap Positif : 3.96964616204e-12
+Vmap Negatif : 9.61842939901e-12
+Vmap Netral : 7.13215485461e-13
+negatif
+
+140
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba: Sejumlah wisatawan yang ditemui Tribun di beberapa titik\u2026... https://t.co/NYQZT93NJ2
+masih nyaman renang danau toba jumlah temu 
+Vmap Positif : 6.95864630036e-20
+Vmap Negatif : 3.43079484701e-17
+Vmap Netral : 2.19234150369e-19
+negatif
+
+141
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba: Sejumlah wisatawan yang ditemui Tribun di beberapa titik\u2026 https://t.co/Sk8fxcpYtn #MedanHits
+masih nyaman renang danau toba jumlah temu 
+Vmap Positif : 6.95864630036e-20
+Vmap Negatif : 3.43079484701e-17
+Vmap Netral : 2.19234150369e-19
+negatif
+
+147
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba https://t.co/mPZfUf7ZJf https://t.co/YYZWs5FRGA
+masih nyaman renang danau toba 
+Vmap Positif : 3.96964616204e-12
+Vmap Negatif : 9.61842939901e-12
+Vmap Netral : 7.13215485461e-13
+negatif
+
+148
+Tweet :  #buzzer Wisatawan Masih Nyaman Berenang di Danau Toba https://t.co/xc2RYqTnX5 #Medan
+masih nyaman renang danau toba 
+Vmap Positif : 3.96964616204e-12
+Vmap Negatif : 9.61842939901e-12
+Vmap Netral : 7.13215485461e-13
+negatif
+
+149
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba https://t.co/EMXz3Q2WMB
+masih nyaman renang danau toba 
+Vmap Positif : 3.96964616204e-12
+Vmap Negatif : 9.61842939901e-12
+Vmap Netral : 7.13215485461e-13
+negatif
+
+150
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya: \"Lihat lihat, apa ini? Ini\u2026... https://t.co/85kJ8bVaZq
+enggak percaya danau toba bukti lihat lihat 
+Vmap Positif : 8.24728450413e-20
+Vmap Negatif : 4.82573341118e-19
+Vmap Netral : 2.39632630485e-19
+negatif
+
+151
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya: \"Lihat lihat, apa ini? Ini\u2026 https://t.co/lOaVDGPPkA #MedanHits
+enggak percaya danau toba bukti lihat lihat 
+Vmap Positif : 8.24728450413e-20
+Vmap Negatif : 4.82573341118e-19
+Vmap Netral : 2.39632630485e-19
+negatif
+
+155
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/yBLx4eewgQ
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+156
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/7PIT7krfX1 https://t.co/CI0xyOHXmO
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+159
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/rp9KAMK8dc
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+160
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/e7RgXOQB3m
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+161
+Tweet :  #buzzer NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/0Gh3oPQDcf #Medan
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+162
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/0FnCjVYAXx https://t.co/wCdxqMHSrL
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+163
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/BJGxvztOee Via @tribunmedan
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+164
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/rDCeeLFsyx
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+165
+Tweet :  NEWS VIDEO: Enggak Percaya di Tepi Danau Toba Ada Lintah? Ini Buktinya https://t.co/Df2kG1w1Tb https://t.co/PDU9pHB4jo
+enggak percaya danau toba bukti 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+168
+Tweet :  RT @tribunmedan: Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/GT4etWoFJN https://t.co/q\u2026
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+169
+Tweet :  https://t.co/GzMnGnkZtU \u2013 Membicarakan soal danau Toba tentunya tak lepas dari\u2026 https://t.co/MYY3Wr7yHm
+bicara danau toba tentu tak lepas 
+Vmap Positif : 2.02295579781e-16
+Vmap Negatif : 8.35078086387e-16
+Vmap Netral : 1.57169959218e-16
+negatif
+
+174
+Tweet :  Video - Badan Pengunjung Gatal-Gatal Usai Berenang di Danau Toba https://t.co/YQ8wXiCy4j
+unjung gatal renang danau toba 
+Vmap Positif : 4.41071795782e-14
+Vmap Negatif : 1.9236858798e-12
+Vmap Netral : 3.47909992908e-13
+negatif
+
+175
+Tweet :  Video - Badan Pengunjung Gatal-Gatal Usai Berenang di Danau Toba https://t.co/aycwICSm60
+unjung gatal renang danau toba 
+Vmap Positif : 4.41071795782e-14
+Vmap Negatif : 1.9236858798e-12
+Vmap Netral : 3.47909992908e-13
+negatif
+
+176
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/S0j0DaNaZ9
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+177
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/GT4etWoFJN https://t.co/qTIx2SsyDt
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+180
+Tweet :  Video - Ini Penjelasan Inisiator Pejuang Danau Toba terkait Penemuan Lintah dan Kutu https://t.co/w8XrrEe0tZ
+jelas juang danau toba kait temu 
+Vmap Positif : 6.47345855298e-16
+Vmap Negatif : 3.50732796283e-15
+Vmap Netral : 1.73601364046e-15
+negatif
+
+181
+Tweet :  Holmes Hutapea Ajak Buktikan Secara Ilmiah Kondisi Terkini Danau Toba https://t.co/3XxlpuBsYo
+bukti cara ilmiah kini danau toba 
+Vmap Positif : 2.99697155231e-18
+Vmap Negatif : 3.34031234555e-17
+Vmap Netral : 1.57169959218e-17
+negatif
+
+182
+Tweet :  Video - Ini Penjelasan Inisiator Pejuang Danau Toba terkait Penemuan Lintah dan Kutu https://t.co/WPbVfNlYiD
+jelas juang danau toba kait temu 
+Vmap Positif : 6.47345855298e-16
+Vmap Negatif : 3.50732796283e-15
+Vmap Netral : 1.73601364046e-15
+negatif
+
+183
+Tweet :  Holmes Hutapea Ajak Buktikan Secara Ilmiah Kondisi Terkini Danau Toba https://t.co/w4eGeAa7sA
+bukti cara ilmiah kini danau toba 
+Vmap Positif : 2.99697155231e-18
+Vmap Negatif : 3.34031234555e-17
+Vmap Netral : 1.57169959218e-17
+negatif
+
+186
+Tweet :  Pemancing Ini Akui Langkanya Ikan di Danau Toba Akibat Sampah dan Limbah https://t.co/EB2HT5TgzG lewat @tribunmedan
+pancing aku langka danau toba sampah limbah 
+Vmap Positif : 1.71818427169e-22
+Vmap Negatif : 7.54020845496e-21
+Vmap Netral : 1.48532622201e-22
+negatif
+
+187
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja: Ya nyaman-nyaman\u2026... https://t.co/QUEvId8Qk1
+danau toba terpa isu ada aku nyaman ya nyaman 
+Vmap Positif : 6.34309288678e-27
+Vmap Negatif : 2.30529840813e-26
+Vmap Netral : 4.40274931897e-27
+negatif
+
+188
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja: Ya nyaman-nyaman\u2026 https://t.co/f1q427CIui #MedanHits
+danau toba terpa isu ada aku nyaman ya nyaman 
+Vmap Positif : 6.34309288678e-27
+Vmap Negatif : 2.30529840813e-26
+Vmap Netral : 4.40274931897e-27
+negatif
+
+190
+Tweet :  @zhingxiujing @kloseol \"akhirnya\" batin xiao tenang. Setenang genangan air di danau toba. 'Eh bentar disana tenang gak ya?' Pikirnya
+akhir tenang tenang genang danau toba bentar sana tenang tidak ya pikir 
+Vmap Positif : 3.7776122092e-38
+Vmap Negatif : 4.58204879611e-34
+Vmap Netral : 4.56276737595e-36
+negatif
+
+191
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman\u00a0Saja https://t.co/IDm4JFZTxK https://t.co/x5BPGKF0wW
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+192
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/MWYgYeO8Hk https://t.co/rZcFqaowL0
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+193
+Tweet :  #buzzer Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/712YBZOLzw #Medan
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+194
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/Dbj9AUW94E
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+195
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/odP34Gl3t4
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+198
+Tweet :  Ketika Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/MAihcqVEZy lewat @tribunmedan
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+201
+Tweet :  Danau Toba Diterpa Isu Adanya Lintah dan Kutu, Wisatawan Mengaku Nyaman-nyaman Saja https://t.co/EqhL8v1gkc
+danau toba terpa isu ada aku nyaman 
+Vmap Positif : 4.63909753357e-21
+Vmap Negatif : 5.65515634122e-20
+Vmap Netral : 1.57444579533e-20
+negatif
+
+206
+Tweet :  Kadis Lingkungan Hidup Sumut:  Danau Toba Sudah Tercemar https://t.co/D2ywIrTQNC via @analisadaily
+kad lingkung hidup danau toba cemar 
+Vmap Positif : 6.74318599269e-17
+Vmap Negatif : 7.26517935157e-15
+Vmap Netral : 4.68080714909e-15
+negatif
+
+213
+Tweet :  Ini Ancaman bagi Perusahaan Pembuang Limbah ke Danau Toba https://t.co/SG36cQedkJ https://t.co/UfeE7FypqR
+ancam usaha buang limbah danau toba 
+Vmap Positif : 8.24167176884e-18
+Vmap Negatif : 8.35078086387e-16
+Vmap Netral : 1.56455550313e-16
+negatif
+
+214
+Tweet :  Ini Ancaman bagi Perusahaan Pembuang Limbah ke Danau Toba https://t.co/mYEMqH5hjN
+ancam usaha buang limbah danau toba 
+Vmap Positif : 8.24167176884e-18
+Vmap Negatif : 8.35078086387e-16
+Vmap Netral : 1.56455550313e-16
+negatif
+
+215
+Tweet :  #buzzer Ini Ancaman bagi Perusahaan Pembuang Limbah ke Danau Toba https://t.co/kuDv6hMpH3 #Medan
+ancam usaha buang limbah danau toba 
+Vmap Positif : 8.24167176884e-18
+Vmap Negatif : 8.35078086387e-16
+Vmap Netral : 1.56455550313e-16
+negatif
+
+218
+Tweet :  BLH Harus Uji Baku Mutu Air Limbah Perusahaan dan Danau Toba: Apakah yang membuang limbah itu baku\u2026... https://t.co/HyreXTWXwu
+harus limbah usaha danau toba buang limbah 
+Vmap Positif : 1.44900206913e-20
+Vmap Negatif : 3.77010422748e-19
+Vmap Netral : 1.13247872616e-19
+negatif
+
+219
+Tweet :  BLH Harus Uji Baku Mutu Air Limbah Perusahaan dan Danau Toba: Apakah yang membuang limbah itu baku\u2026 https://t.co/5cOx2VziM1 #MedanHits
+harus limbah usaha danau toba buang limbah 
+Vmap Positif : 1.44900206913e-20
+Vmap Negatif : 3.77010422748e-19
+Vmap Netral : 1.13247872616e-19
+negatif
+
+220
+Tweet :  ALAS iku ombo... opo maneh ALASANmu sing GOBLOK !!! (at Hotel Danau Toba Internasional Medan) \u2014 https://t.co/152cRfRDDp
+alas goblok danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.311065915e-09
+Vmap Netral : 8.36684876278e-11
+negatif
+
+222
+Tweet :  @seolhyunxxkim @FU_ELKIM ckck pantas danau toba sering banjir
+pantas danau toba banjir 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+227
+Tweet :  Perkembangbiakan Lintah Di Danau Toba Dipicu Oleh Kotoran Ternak Ikan  https://t.co/Eu36WBe6rS
+danau toba picu kotor 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 9.83299436253e-10
+Vmap Netral : 2.09171219069e-10
+negatif
+
+233
+Tweet :  Ucok Batubara warga sekitar Danau Toba, ditemui sedang mancing di danau, merasakan dampak mulai langkanya... https://t.co/ypNmWq9LXA
+danau toba temu sedang danau rasa langka 
+Vmap Positif : 6.20350431295e-18
+Vmap Negatif : 3.28300676129e-16
+Vmap Netral : 1.25703158169e-16
+negatif
+
+240
+Tweet :  6 Hal Mengerikan Jika Gunung Danau Toba Meletus Dan Gempa Di Kota Medan https://t.co/ZLegCu9qIR
+keri danau toba letus 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-08
+Vmap Netral : 8.28318027515e-09
+negatif
+
+242
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa: Kepolisian Daerah Sumatera\u2026... https://t.co/o2bRyxkOiy
+serah sangka danau toba polisi 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 8.65658645911e-12
+Vmap Netral : 8.50446649331e-14
+negatif
+
+245
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa: Kepolisian Daerah Sumatera\u2026 https://t.co/WwsaM1esmz #MedanHits
+serah sangka danau toba polisi 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 8.65658645911e-12
+Vmap Netral : 8.50446649331e-14
+negatif
+
+253
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/oNCWDFEFl9
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+255
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/fXCcutuVlw https://t.co/aDzfdD7HsJ
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+256
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/CgX1firwUt
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+257
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/EHdehynjpP Via @tribunmedan
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+258
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/cn5YxvU5dH
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+259
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/xumf1UHH5p
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+260
+Tweet :  #buzzer Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/XL2nru6877 #Medan
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+262
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/ScfLxQNAh4
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+263
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/PxPu9MAo1a https://t.co/qsDQ2VY8eG
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+264
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/mn8YqONxRk by Jasa SEO Med\u2026 https://t.co/rPIwVeJEtS
+serah sangka danau toba jasa 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 1.73131729182e-11
+Vmap Netral : 9.27759981088e-14
+negatif
+
+265
+Tweet :  Polda Sumut Sudah Serahkan Berkas Dua Tersangka Pesta Danau Toba pada Jaksa https://t.co/yOqkd4w1fE #Medan
+serah sangka danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.83486780138e-08
+Vmap Netral : 8.36684876278e-11
+negatif
+
+272
+Tweet :  Alamak\u00a0! Ikan-ikan di Danau Toba Mulai\u00a0Langka, Banyak Pemacing yang\u00a0Mengeluh https://t.co/astDl6GPwl https://t.co/BAFzqST1lB
+ikan danau toba banyak 
+Vmap Positif : 7.05234595073e-10
+Vmap Negatif : 2.03215216826e-08
+Vmap Netral : 6.14963384064e-09
+negatif
+
+277
+Tweet :  Gawat ! Spesies Ikan di Danau Toba Mulai Punah https://t.co/hyvOSIKqzr ...
+gawat danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 5.51762090329e-05
+Vmap Netral : 8.14914335797e-06
+negatif
+
+281
+Tweet :  Gawat, Danau Toba yang Akan Dijadikan Monaco of Asia Diserang Lintah dan Kutu https://t.co/G37skcbCOX
+gawat danau toba jadi serang 
+Vmap Positif : 2.695438752e-13
+Vmap Negatif : 1.49573975946e-09
+Vmap Netral : 7.37569184965e-12
+negatif
+
+282
+Tweet :  Meski Ada Temuan Kutu dan Lintah | Pemkab Simalungun Nyatakan Aman Mandi di Danau\u00a0Toba https://t.co/9A3Cmwo11Z https://t.co/rAXFUppdbc
+temu nyata aman danau 
+Vmap Positif : 1.62721410954e-12
+Vmap Negatif : 3.7306753679e-11
+Vmap Netral : 3.66505644445e-12
+negatif
+
+291
+Tweet :  Dituding ada Lintah di Danau Toba, Dua OKP di Kecamatan Girsip \u2018Kecam\u2019 Berita Hoax https://t.co/48wRQbw0Ss
+tuding danau toba camat 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 2.51005462883e-10
+negatif
+
+299
+Tweet :  https://t.co/qhjWZuRpAr tau gak sih, asal usul danau toba #news #berita\n #news
+tau tidak asal danau toba 
+Vmap Positif : 8.82143591564e-13
+Vmap Negatif : 1.51024139148e-09
+Vmap Netral : 7.88595983925e-11
+negatif
+
+302
+Tweet :  Selidiki Dugaan Lintah di Danau Toba, Sutrisno Minta Helikopter Basarnas Diturunkan https://t.co/zkhsncu7MK
+selidik duga danau toba turun 
+Vmap Positif : 9.80159546182e-15
+Vmap Negatif : 2.44160130898e-12
+Vmap Netral : 9.12297314737e-13
+negatif
+
+303
+Tweet :  Wisatawan Masih Nyaman Berenang di Danau Toba - Tribun Medan https://t.co/U65PrmTCMw
+masih nyaman renang danau toba 
+Vmap Positif : 3.96964616204e-12
+Vmap Negatif : 9.61842939901e-12
+Vmap Netral : 7.13215485461e-13
+negatif
+
+306
+Tweet :  Bah, Lintah di Danau Toba sudah Ditemukan 5 Tahun Lalu https://t.co/AqOgt9hEe9
+danau toba temu 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.000101640385061
+Vmap Netral : 3.25965734319e-05
+negatif
+
+307
+Tweet :  Bah, Lintah di Danau Toba sudah Ditemukan 5 Tahun Lalu https://t.co/INlHKVLBWW
+danau toba temu 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.000101640385061
+Vmap Netral : 3.25965734319e-05
+negatif
+
+313
+Tweet :  Isu Pencemaran Danau Toba, Pemerintah Setempat Diminta Bertindak https://t.co/3dzav97SVN
+isu cemar danau toba perintah tempat minta tindak 
+Vmap Positif : 1.61810351837e-23
+Vmap Negatif : 3.45521967575e-22
+Vmap Netral : 1.31046893068e-22
+negatif
+
+314
+Tweet :  Isu Pencemaran Danau Toba, Pemerintah Setempat Diminta Bertindak https://t.co/XhkDydmVSQ
+isu cemar danau toba perintah tempat minta tindak 
+Vmap Positif : 1.61810351837e-23
+Vmap Negatif : 3.45521967575e-22
+Vmap Netral : 1.31046893068e-22
+negatif
+
+315
+Tweet :  Enjoy danau toba\n.\n.\n.\n.\n.\n#aslisuroboyo #suroboyoku #surabaya #vsco #vscocam #vscogood\u2026 https://t.co/C8awPlWFGA
+enjoy danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+326
+Tweet :  Hoax itu racun... ini lebih mirip di Danau Toba.. \ud83d\ude02 https://t.co/dPqUFKXdgf
+racun mirip danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 2.92839706697e-10
+negatif
+
+327
+Tweet :  Ini Ancaman bagi Perusahaan Pembuang Limbah ke Danau Toba - Tribun Medan https://t.co/4SWekw7LBP
+ancam usaha buang limbah danau toba 
+Vmap Positif : 8.24167176884e-18
+Vmap Negatif : 8.35078086387e-16
+Vmap Netral : 1.56455550313e-16
+negatif
+
+333
+Tweet :  RT @david_joentax: Betkali2 mandi air danau toba gak pernah ada ini.. https://t.co/1JFGpAHTi3
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+334
+Tweet :  Dinas Pariwisata Samosir Tegaskan Tidak Ada Lintah atau Kutu di Danau Toba https://t.co/pfct0SYROM
+tegas tidak danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-08
+Vmap Netral : 4.26709286902e-09
+negatif
+
+335
+Tweet :  Dinas Pariwisata Samosir Tegaskan Tidak Ada Lintah atau Kutu di Danau Toba https://t.co/b9AUBa1V3k
+tegas tidak danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-08
+Vmap Netral : 4.26709286902e-09
+negatif
+
+338
+Tweet :  Menanggapi isu \"Lintah di Danau Toba\" Sampai saat ini belum ada keluhan warga mengenai adanya lintah di Danau Toba. JUST HOAX !!!
+tanggap isu danau toba keluh kena ada danau toba 
+Vmap Positif : 8.56912091726e-24
+Vmap Negatif : 1.10230725008e-21
+Vmap Netral : 7.7918305842e-22
+negatif
+
+339
+Tweet :  Gimana mau maju Pariwisata Danau Toba, Malu dong itu bule mau balik ke negaranya dgn conecting flight ga bisa! @IndonesiaGaruda.
+mau maju danau toba malu mau negara tidak bisa 
+Vmap Positif : 4.80529947025e-25
+Vmap Negatif : 2.28743234547e-24
+Vmap Netral : 1.42880407756e-24
+negatif
+
+340
+Tweet :  https://t.co/qhjWZv90rZ tau gak sih, asal usul danau toba #news #berita\n #education
+tau tidak asal danau toba 
+Vmap Positif : 8.82143591564e-13
+Vmap Negatif : 1.51024139148e-09
+Vmap Netral : 7.88595983925e-11
+negatif
+
+341
+Tweet :  RT @david_joentax: Betkali2 mandi air danau toba gak pernah ada ini.. https://t.co/1JFGpAHTi3
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+349
+Tweet :  Jaga Citra Danau Toba https://t.co/w9nvaohBLo #eksposnews
+jaga citra danau toba 
+Vmap Positif : 7.05234595073e-10
+Vmap Negatif : 9.83299436253e-10
+Vmap Netral : 4.18342438139e-10
+negatif
+
+350
+Tweet :  #kom7 DirutPT Inalum: pd level tertinggi (97,05) kt harus membuang air krn danau toba apabila pasang maka akan banjir
+tinggi harus buang danau toba banjir 
+Vmap Positif : 1.48200243262e-15
+Vmap Negatif : 2.67224987644e-15
+Vmap Netral : 8.39430464007e-16
+negatif
+
+355
+Tweet :  Perusahaan Perusak Danau Toba Disidangkan di\u00a0Medan https://t.co/ThHqgxN5o2 https://t.co/amTaJqNQYS
+usaha usak danau toba sidang 
+Vmap Positif : 5.390877504e-14
+Vmap Negatif : 7.39879184539e-13
+Vmap Netral : 5.64387321829e-13
+negatif
+
+360
+Tweet :  Setelah Ribuan Ton Ikan Mati Tiba-tiba, Danau Toba Diserbu Lintah, Efek Magma yang Keluar dari Dasar Danau? https://t.co/I3uR0HVbSh
+telah ribu mati tiba danau toba serbu keluar danau 
+Vmap Positif : 7.08857530287e-26
+Vmap Negatif : 6.66761458585e-23
+Vmap Netral : 4.82519088611e-23
+negatif
+
+364
+Tweet :  Betkali2 mandi air danau toba gak pernah ada ini.. https://t.co/1JFGpAHTi3
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+366
+Tweet :  PTUN Medan akan menggelar persidangan terkait kasus pencemaran Danau Toba atas limbah pakan ternak perusahaan.(TJP,5) #vancom #news #klhk
+gelar sidang kait kasus cemar danau toba atas limbah usaha 
+Vmap Positif : 2.02605500449e-32
+Vmap Negatif : 1.58456741597e-27
+Vmap Netral : 1.29751462416e-28
+negatif
+
+374
+Tweet :  Ada Lintah, Bukti Danau Toba Telah Tercemar https://t.co/62zJcydSjk
+bukti danau toba cemar 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.90104557675e-08
+Vmap Netral : 4.68543530716e-09
+negatif
+
+379
+Tweet :  Ada Lintah, Bukti Danau Toba Telah Tercemar https://t.co/0bXCZqFypZ
+bukti danau toba cemar 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.90104557675e-08
+Vmap Netral : 4.68543530716e-09
+negatif
+
+380
+Tweet :  Ada Lintah, Bukti Danau Toba Telah Tercemar https://t.co/namavytHKy via @BeritasumutCom
+bukti danau toba cemar 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.90104557675e-08
+Vmap Netral : 4.68543530716e-09
+negatif
+
+388
+Tweet :  @WikiDPR #kom7 DirutPT Inalum: pd level tertinggi (97,05) kt harus membuang air krn danau toba apabila pasang maka akan banjir
+tinggi harus buang danau toba banjir 
+Vmap Positif : 1.48200243262e-15
+Vmap Negatif : 2.67224987644e-15
+Vmap Netral : 8.39430464007e-16
+negatif
+
+397
+Tweet :  Diduga Tercemar, Danau Toba Dibanjir Lintah dan Kutu https://t.co/JfXMfYt3ZT
+duga cemar danau toba banjir 
+Vmap Positif : 9.80159546182e-15
+Vmap Negatif : 1.41612875921e-10
+Vmap Netral : 6.38608120316e-12
+negatif
+
+398
+Tweet :  Diduga Tercemar, Danau Toba Dibanjir Lintah dan Kutu https://t.co/bYBrGRFhW2
+duga cemar danau toba banjir 
+Vmap Positif : 9.80159546182e-15
+Vmap Negatif : 1.41612875921e-10
+Vmap Netral : 6.38608120316e-12
+negatif
+
+405
+Tweet :  Lintah dan Kutu \u2018Kuasai\u2019 Danau Toba, BLH Sumut: Cabut Izin PT Aquafarm https://t.co/VMEjLsWglE https://t.co/UOBhKvRVJe
+danau toba cabut 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+407
+Tweet :  RT @Twit_Samosir: Menanggapi isu \"Lintah di Danau Toba\" Sampai saat ini belum ada keluhan warga mengenai adanya lintah di Danau Toba. JUST\u2026
+tanggap isu danau toba keluh kena ada danau toba 
+Vmap Positif : 8.56912091726e-24
+Vmap Negatif : 1.10230725008e-21
+Vmap Netral : 7.7918305842e-22
+negatif
+
+424
+Tweet :  RT @semangatbaru_JR: Isu-isu yang selama ini berkembang tentang Danau Toba tentu mengakibatkan berkurangnya wisatawan yang datang. #Semanga\u2026
+isu lama kembang danau toba akibat kurang 
+Vmap Positif : 6.30000899621e-21
+Vmap Negatif : 3.69470214293e-19
+Vmap Netral : 8.98622364317e-20
+negatif
+
+425
+Tweet :  Isu-isu yang selama ini berkembang tentang Danau Toba tentu mengakibatkan berkurangnya wisatawan yang datang.\u2026 https://t.co/ogGwj0ehiZ
+isu lama kembang danau toba akibat kurang 
+Vmap Positif : 6.30000899621e-21
+Vmap Negatif : 3.69470214293e-19
+Vmap Netral : 8.98622364317e-20
+negatif
+
+428
+Tweet :  Kabur Sebentar Ke Danau Toba https://t.co/5VIKxgw6mP #WisataSumut #JalankeManaGitu
+kabur danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 2.71638111932e-06
+negatif
+
+430
+Tweet :  Danau Toba Tercemar, Lintah Gentayangan https://t.co/0mf2RB7n6O #eksposnews
+danau toba cemar gentayang 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 9.50522788377e-09
+Vmap Netral : 2.34271765358e-09
+negatif
+
+432
+Tweet :  Tepis Isu Lintah, Bupati JR dan Warga Berenang di Danau Toba https://t.co/lWEdXsaDUk
+isu renang danau toba 
+Vmap Positif : 5.77010123242e-10
+Vmap Negatif : 8.52192844752e-09
+Vmap Netral : 1.12952458298e-09
+negatif
+
+444
+Tweet :  Diduga Lintah Atau Cacing di Kawasan Danau Toba, Ini Bukti Fotonya https://t.co/icquy3X71Y
+duga danau toba bukti foto 
+Vmap Positif : 2.64643077469e-13
+Vmap Negatif : 4.88320261796e-12
+Vmap Netral : 4.56148657368e-13
+negatif
+
+445
+Tweet :  Diduga Lintah Atau Cacing di Kawasan Danau Toba, Ini Bukti Fotonya https://t.co/hZvaqCSPhO
+duga danau toba bukti foto 
+Vmap Positif : 2.64643077469e-13
+Vmap Negatif : 4.88320261796e-12
+Vmap Netral : 4.56148657368e-13
+negatif
+
+448
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/rlaWaFOfcp
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+449
+Tweet :  #Daerah Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/YuDMp1Dvwe
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+450
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/L6je9YOBii
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+451
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/l38CMZJmbT
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+452
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/Yy40c2bEXc
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+453
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/brOLVVzFPz https://t.co/654Cjkc6nM
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+455
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/ybY6JZLqan https://t.co/FVWwfFhpBa
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+456
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/pE1htgXEPG
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+457
+Tweet :  Buktikan Aman, JR Saragih dan Pimpinan SKPD Mandi di Danau Toba https://t.co/2XrRy3utIO
+bukti aman pimpin danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 2.70596661151e-14
+negatif
+
+468
+Tweet :  Isu Lintah Merebak di Danau Toba, Gubernur Tengku Erry Perintahkan Ini ke Pemerintah Daerah https://t.co/kES1qsjOyP
+isu rebak danau toba perintah perintah 
+Vmap Positif : 1.81316778915e-16
+Vmap Negatif : 8.1837652466e-16
+Vmap Netral : 2.57455109333e-16
+negatif
+
+469
+Tweet :  Isu Lintah Merebak di Danau Toba, Gubernur Tengku Erry Perintahkan Ini ke Pemerintah Daerah https://t.co/UPsUV2t8KN https://t.co/KpkFtxAnXs
+isu rebak danau toba perintah perintah 
+Vmap Positif : 1.81316778915e-16
+Vmap Negatif : 8.1837652466e-16
+Vmap Netral : 2.57455109333e-16
+negatif
+
+470
+Tweet :  #buzzer Isu Lintah Merebak di Danau Toba, Gubernur Tengku Erry Perintahkan Ini ke Pemerintah Daerah https://t.co/gBrMYyifYD #Medan
+isu rebak danau toba perintah perintah 
+Vmap Positif : 1.81316778915e-16
+Vmap Negatif : 8.1837652466e-16
+Vmap Netral : 2.57455109333e-16
+negatif
+
+471
+Tweet :  Isu Lintah Merebak di Danau Toba, Gubernur Tengku Erry Perintahkan Ini ke Pemerintah Daerah https://t.co/9Qh4ta6mCp
+isu rebak danau toba perintah perintah 
+Vmap Positif : 1.81316778915e-16
+Vmap Negatif : 8.1837652466e-16
+Vmap Netral : 2.57455109333e-16
+negatif
+
+474
+Tweet :  Isu Lintah Merebak di Danau Toba, Gubernur Tengku Erry Perintahkan Ini ke Pemerintah Daerah https://t.co/RNW3nFuf5x lewat @tribunmedan
+isu rebak danau toba perintah perintah 
+Vmap Positif : 1.81316778915e-16
+Vmap Negatif : 8.1837652466e-16
+Vmap Netral : 2.57455109333e-16
+negatif
+
+478
+Tweet :  Danau Toba Makin Rusak, YPDT Ambil Langkah Hukum - https://t.co/7Oy8P3sskx #KaroDaily
+danau toba rusak langkah hukum 
+Vmap Positif : 9.80159546182e-15
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 4.63879990544e-14
+negatif
+
+481
+Tweet :  JR Saragih Berenang di Danau Toba! Airnya Bersih, Tolonglah Jangan Bikin Rusak, Rugi Kita https://t.co/u3dr8cicKn
+renang danau toba air bersih tolong jangan rusak rugi 
+Vmap Positif : 7.83097887256e-28
+Vmap Negatif : 1.69823649399e-25
+Vmap Netral : 1.14143004092e-27
+negatif
+
+492
+Tweet :  Tepis Isu Pencemaran, JR Saragih Main Air di Danau Toba https://t.co/Y6MULVDTsr
+isu cemar main danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 8.58259854065e-12
+Vmap Netral : 7.14375185438e-12
+negatif
+
+493
+Tweet :  Tepis Isu Pencemaran, JR Saragih Main Air di Danau Toba https://t.co/rjHsiQMpeq #Medan
+isu cemar main danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 8.58259854065e-12
+Vmap Netral : 7.14375185438e-12
+negatif
+
+494
+Tweet :  Tepis Isu Pencemaran, JR Saragih Main Air di Danau Toba https://t.co/AcvOdrgqtf #Medan
+isu cemar main danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 8.58259854065e-12
+Vmap Netral : 7.14375185438e-12
+negatif
+
+495
+Tweet :  Tepis Isu Pencemaran, JR Saragih Main Air di Danau Toba https://t.co/JJ1S39sBqD #SIMALUNGUN via @EdisiMedan.com
+isu cemar main danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 8.58259854065e-12
+Vmap Netral : 7.14375185438e-12
+negatif
+
+499
+Tweet :  GMKI Sumut-Nad : Kawasan Danau Toba, Jangan Hanya Menang Slogan PATEN Saja https://t.co/efZLtpP1qS
+danau toba jangan menang paten 
+Vmap Positif : 7.64524446022e-13
+Vmap Negatif : 3.77338384115e-12
+Vmap Netral : 1.15969997636e-13
+negatif
+
+529
+Tweet :  Tgh buat itinerary utk individual trip ke Medan - Danau Toba besok sambil tgk movie hindustani-Kashmir. \ud83d\ude0b
+individual danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+539
+Tweet :  Pejuang Danau Toba: Pencemaran Danau Toba Terjadi Akibat Limbah Ternak - Tribun Medan https://t.co/OYiZLesrlz
+juang danau toba cemar danau toba jadi limbah 
+Vmap Positif : 5.48050505883e-18
+Vmap Negatif : 3.58753978125e-16
+Vmap Netral : 1.88883946904e-16
+negatif
+
+545
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/B9BOFypgqQ
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+546
+Tweet :  Kalau citra Danau Toba positif kita juga akan menerima manfaatnya.#DanauToba #TobaView #Simalungunmantab\u2026 https://t.co/5iWxYlIswf
+citra danau toba positif terima manfaat 
+Vmap Positif : 4.72023019488e-17
+Vmap Negatif : 1.00209370366e-16
+Vmap Netral : 8.93011131923e-18
+negatif
+
+551
+Tweet :  #buzzer Pejuang Danau Toba: Pencemaran Danau Toba Terjadi Akibat Limbah Ternak https://t.co/BKwguhV0cu #Medan
+juang danau toba cemar danau toba jadi limbah 
+Vmap Positif : 5.48050505883e-18
+Vmap Negatif : 3.58753978125e-16
+Vmap Netral : 1.88883946904e-16
+negatif
+
+552
+Tweet :  Pejuang Danau Toba: Pencemaran Danau Toba Terjadi Akibat Limbah Ternak https://t.co/wqeEiYsMUV https://t.co/aqrDeQ0hzR
+juang danau toba cemar danau toba jadi limbah 
+Vmap Positif : 5.48050505883e-18
+Vmap Negatif : 3.58753978125e-16
+Vmap Netral : 1.88883946904e-16
+negatif
+
+553
+Tweet :  Pejuang Danau Toba: Pencemaran Danau Toba Terjadi Akibat Limbah Ternak https://t.co/e9QF35o13o
+juang danau toba cemar danau toba jadi limbah 
+Vmap Positif : 5.48050505883e-18
+Vmap Negatif : 3.58753978125e-16
+Vmap Netral : 1.88883946904e-16
+negatif
+
+554
+Tweet :  Pejuang Danau Toba: Pencemaran Danau Toba Terjadi Akibat Limbah Ternak -... https://t.co/hL55WKKwh3
+juang danau toba cemar danau toba jadi limbah 
+Vmap Positif : 5.48050505883e-18
+Vmap Negatif : 3.58753978125e-16
+Vmap Netral : 1.88883946904e-16
+negatif
+
+555
+Tweet :  Setelah Ribuan Ton Ikan Mati Tiba-tiba, Danau Toba Diserbu Lintah, Efek Magma yang Keluar dari Dasar Danau? https://t.co/cpPyBgpGmL
+telah ribu mati tiba danau toba serbu keluar danau 
+Vmap Positif : 7.08857530287e-26
+Vmap Negatif : 6.66761458585e-23
+Vmap Netral : 4.82519088611e-23
+negatif
+
+556
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/pIC1n1zghy #travel
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+557
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/9tb0kqh5XO
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+558
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/PKrRJZMN7x
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+559
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/8jWi9HyNqk #NewsUpdate
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+560
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/bBUD8pXDKk
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+561
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/RtEk6HZonQ
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+563
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/EhuJm1wMtE https://t.co/SxrP5gCDnV
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+564
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/tZY4cLWDbz https://t.co/mCLhsqD63R
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+565
+Tweet :  #infoWisata Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/flpkhEmVCN
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+566
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/fx8z5Wk6c3
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+567
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/o4UeQscDp2
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+568
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/wPtPv30mWJ
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+569
+Tweet :  Kapal Berdesain Rumah Batak Akan Bawa Wisatawan Keliling Danau Toba https://t.co/P1m4zBLgBH #Lifestyle
+desain danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+574
+Tweet :  6 Hal Mengerikan Jika Gunung Danau Toba Meletus Dan Gempa Di Kota Medan - SekopPoker https://t.co/mqlWDZHkDN
+keri danau toba letus 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-08
+Vmap Netral : 8.28318027515e-09
+negatif
+
+579
+Tweet :  RT @KedaiPenaCom: Kadis Lingkungan Hidup Pemprov Sumut: Lintah Indikator Pencemaran di Danau Toba https://t.co/gNSEfXWqJY https://t.co/CQjO\u2026
+kad lingkung hidup cemar danau toba 
+Vmap Positif : 6.74318599269e-17
+Vmap Negatif : 7.26517935157e-15
+Vmap Netral : 4.68080714909e-15
+negatif
+
+587
+Tweet :  JR Sebut Isu Ada Lintah Di Danau Toba Jangan di Kaitkan ke Arah\u00a0Politik https://t.co/GGm8vb4uL2 https://t.co/JNiKOKeNjA
+isu danau toba jangan kait arah 
+Vmap Positif : 4.38307089525e-17
+Vmap Negatif : 8.51779648115e-16
+Vmap Netral : 8.43895519667e-16
+negatif
+
+591
+Tweet :  Tepis Hoax Soal Lintah, JR Saragih Berenang di Danau\u00a0Toba https://t.co/bEF886n4yv https://t.co/BVNoxS2N7q
+renang danau 
+Vmap Positif : 4.17719019572e-05
+Vmap Negatif : 0.000271938200959
+Vmap Netral : 3.57696326992e-05
+negatif
+
+595
+Tweet :  Makan siangnya kejauan \ud83d\ude12 (with papa at Panatapan, Danau Toba Parapat) \u2014 https://t.co/R026Tm6e6c
+siang danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+604
+Tweet :  Puluhan Tahun Danau Toba Tercemar, BLH Sumut Langgar Peraturan Gubernur https://t.co/zSXMh3EOWs
+puluh danau toba cemar atur 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 3.00390948923e-11
+Vmap Netral : 3.24715993381e-13
+negatif
+
+606
+Tweet :  Puluhan Tahun Danau Toba Tercemar, BLH Sumut Langgar Peraturan Gubernur https://t.co/6mDB8fUYQd
+puluh danau toba cemar atur 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 3.00390948923e-11
+Vmap Netral : 3.24715993381e-13
+negatif
+
+609
+Tweet :  Iya nanti aku berubah jadi ikan terus menenggelamkan seluruh kota, danau toba (???) https://t.co/cLBHTtYZS2
+iya ubah jadi tenggelam danau toba 
+Vmap Positif : 1.23625076533e-16
+Vmap Negatif : 1.87224506968e-13
+Vmap Netral : 1.01777550319e-13
+negatif
+
+612
+Tweet :  Ringkasan percutian Kota Medan - Berastagi - Danau Toba. \n\nVideo credit: FurqanFaiz https://t.co/2jNvGJ6VIR
+ringkas cuti danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+625
+Tweet :  Soal Lintah dan Kutu di Destinasi Wisata, Venna Melinda: Enyahkan Ego Sektoral demi Berkem...\u2026 https://t.co/2q4zi3KKV3
+enyah 
+Vmap Positif : 2.5225500688e-05
+Vmap Negatif : 7.44920993228e-05
+Vmap Netral : 1.52467196452e-05
+negatif
+
+626
+Tweet :  Soal Lintah dan Kutu di Destinasi Wisata, Venna Melinda: Enyahkan Ego Sektoral demi Berkem...\u2026 https://t.co/TFm3LCstGP
+enyah 
+Vmap Positif : 2.5225500688e-05
+Vmap Negatif : 7.44920993228e-05
+Vmap Netral : 1.52467196452e-05
+negatif
+
+639
+Tweet :  Pemkab danau toba belum terima laporan temuan lintah di danau toba. Pemkab Tobasa terus galakkan program bersih-bersih.
+danau toba terima lapor temu danau toba galak bersih 
+Vmap Positif : 3.4276483669e-22
+Vmap Negatif : 9.25938090067e-20
+Vmap Netral : 1.16436411749e-21
+negatif
+
+640
+Tweet :  starmania, ada gak yang belum pernah ke danau toba?? hayo jujur?? :p #StarKepo https://t.co/BcGva5LJtQ
+tidak danau toba jujur 
+Vmap Positif : 3.84673415495e-10
+Vmap Negatif : 2.65490847788e-08
+Vmap Netral : 8.53418573803e-09
+negatif
+
+644
+Tweet :  Ada Sejenis Lintah di Danau Toba, Aqua Farm Merasa Kena \u201cSemprot\u201d https://t.co/oIXMi7eU94
+jenis danau toba rasa 
+Vmap Positif : 6.41122359158e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 4.18342438139e-10
+negatif
+
+647
+Tweet :  Ada Sejenis Lintah di Danau Toba, Aqua Farm Merasa Kena \u201cSemprot\u201d https://t.co/vSXwAV6QNq
+jenis danau toba rasa 
+Vmap Positif : 6.41122359158e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 4.18342438139e-10
+negatif
+
+667
+Tweet :  Lagi heboh berita LINTAH di Danau Toba. Semua  bertanya-tanya Hoax atau Fakta?  bagaimana  kira\" kita cari... https://t.co/tc9274m6HC
+heboh danau toba tanya kira cari 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 8.35078086387e-17
+Vmap Netral : 3.4827434145e-17
+negatif
+
+670
+Tweet :  Video - Ini Penjelasan Pejuang Danau Toba Mengenai Penemuan Lintah dan Kutu (by Hetanews) https://t.co/cDUZih7Faa
+jelas juang danau toba kena temu 
+Vmap Positif : 7.19273172554e-17
+Vmap Negatif : 1.16910932094e-15
+Vmap Netral : 5.78671213486e-16
+negatif
+
+690
+Tweet :  RT @YPDT2017: Danau Toba sudah tercemar lintah, mengerikan! https://t.co/CarQsu22Um
+danau toba cemar keri 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 9.50522788377e-08
+Vmap Netral : 2.10844588822e-08
+negatif
+
+694
+Tweet :  RT @YPDT2017: Danau Toba sudah tercemar lintah, mengerikan! https://t.co/CarQsu22Um
+danau toba cemar keri 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 9.50522788377e-08
+Vmap Netral : 2.10844588822e-08
+negatif
+
+696
+Tweet :  Breakfast berhadapan Lake Toba. (@ Lekjon Cottage Tuktuk Siadong Island) https://t.co/3pSG8jXru5 https://t.co/dOznvCHYNg
+hadap toba 
+Vmap Positif : 4.55840724861e-06
+Vmap Negatif : 2.06829079384e-05
+Vmap Netral : 1.38942107873e-05
+negatif
+
+708
+Tweet :  Pemerintah Pusat Harus Segera Tangani Pencemaran di Danau Toba https://t.co/opUSfhhvdA
+perintah harus segera tangan cemar danau toba 
+Vmap Positif : 1.1592016553e-19
+Vmap Negatif : 5.51038433889e-17
+Vmap Netral : 2.35648655485e-17
+negatif
+
+709
+Tweet :  Pemerintah Pusat Harus Segera Tangani Pencemaran di Danau Toba https://t.co/S8x2xPBCVA
+perintah harus segera tangan cemar danau toba 
+Vmap Positif : 1.1592016553e-19
+Vmap Negatif : 5.51038433889e-17
+Vmap Netral : 2.35648655485e-17
+negatif
+
+712
+Tweet :  Danau Toba ini tidak hanya menjadi kebanggaan Sumatera Utara tapi juga kebanggaan Indonesia. #Simalungunmantab #SemangatBaruSumut
+danau toba tidak jadi bangga bangga 
+Vmap Positif : 8.90100551035e-15
+Vmap Negatif : 5.1407406998e-14
+Vmap Netral : 1.7379425445e-14
+negatif
+
+715
+Tweet :  @_Wonho93 bininya ikan... macam danau toba...
+bini danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+719
+Tweet :  @chayeoen soalnya danau toba mirip topi kamu :(((
+soal danau toba mirip :( 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 1.62773420599e-12
+Vmap Netral : 2.16477328921e-13
+negatif
+
+721
+Tweet :  Malangnya Danau Toba, Air Tercemar Infrastruktur pun Rusak https://t.co/8I56vlM7JI
+malang danau toba cemar rusak 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 4.29129927033e-12
+Vmap Netral : 4.32954657841e-13
+negatif
+
+725
+Tweet :  Wakil Bupati Koordinasikan Jalur Wisata Danau Toba https://t.co/y0NDojeNcj #metro24jam
+koordinasi danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+726
+Tweet :  Danau Toba ni x de laa crowded sangat. Sesuai utk sesiapa yg perlukan ketenangan suasana tasik yg x ramai org.\u2026 https://t.co/DL3JkrAAut
+danau toba siapa perlu tenang ramai 
+Vmap Positif : 1.25872805197e-16
+Vmap Negatif : 3.34031234555e-16
+Vmap Netral : 1.32612153091e-16
+negatif
+
+728
+Tweet :  [ coba beneran terjadi.\n\ncoba xan bener bener dibuang ke danau toba. ] https://t.co/fZtfxznsME
+jadi benar benar buang danau toba 
+Vmap Positif : 2.63733496603e-15
+Vmap Negatif : 5.71193411089e-14
+Vmap Netral : 1.22678297259e-14
+negatif
+
+729
+Tweet :  Terinspirasi dari danau toba :( https://t.co/pP2plCy2Tz
+inspirasi danau toba :( 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.60543126626e-09
+Vmap Netral : 3.0120655546e-09
+negatif
+
+737
+Tweet :  RT @elyananaing: 6 Hal Mengerikan Jika Gunung Danau Toba Meletus Dan Gempa Di Kota Medan - SekopPoker https://t.co/mqlWDZHkDN
+keri danau toba letus 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-08
+Vmap Netral : 8.28318027515e-09
+negatif
+
+739
+Tweet :  RT @elyananaing: 6 Hal Mengerikan Jika Gunung Danau Toba Meletus Dan Gempa Di Kota Medan - SekopPoker https://t.co/mqlWDZHkDN
+keri danau toba letus 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-08
+Vmap Netral : 8.28318027515e-09
+negatif
+
+746
+Tweet :  {{/barin kou ndusel-ndusel/\n\n/buang xan ke danau toba/ /heh}} https://t.co/P7MgTC2Jka
+buang danau toba 
+Vmap Positif : 1.6774325405e-06
+Vmap Negatif : 1.45200550087e-05
+Vmap Netral : 7.24368298486e-06
+negatif
+
+758
+Tweet :  @zaynjulkor penyanyi apa yg lahir di danau toba?
+nyanyi danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+761
+Tweet :  PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini Alasannya https://t.co/10ZQs0tYu8 via @tribunmedan
+tak salah kait isu cemar danau toba alas 
+Vmap Positif : 1.18205614166e-24
+Vmap Negatif : 2.2212126487e-20
+Vmap Netral : 2.83230381791e-21
+negatif
+
+763
+Tweet :  PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini Alasannya https://t.co/KL1UGnE0R9 lewat @tribunmedan
+tak salah kait isu cemar danau toba alas 
+Vmap Positif : 1.18205614166e-24
+Vmap Negatif : 2.2212126487e-20
+Vmap Netral : 2.83230381791e-21
+negatif
+
+766
+Tweet :  Demi Coin receh Anak-Anak ini rela menyelam di Danau Toba: https://t.co/n0dXG1Ukxm melalui @YouTube
+anak rela selam danau toba lalu 
+Vmap Positif : 2.02295579781e-17
+Vmap Negatif : 5.01046851832e-17
+Vmap Netral : 1.25021558469e-18
+negatif
+
+769
+Tweet :  PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini Alasannya https://t.co/fY0DbUl1qg
+tak salah kait isu cemar danau toba alas 
+Vmap Positif : 1.18205614166e-24
+Vmap Negatif : 2.2212126487e-20
+Vmap Netral : 2.83230381791e-21
+negatif
+
+770
+Tweet :  #buzzer PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini Alasannya https://t.co/0NKzFJ2PJn #Medan
+tak salah kait isu cemar danau toba alas 
+Vmap Positif : 1.18205614166e-24
+Vmap Negatif : 2.2212126487e-20
+Vmap Netral : 2.83230381791e-21
+negatif
+
+771
+Tweet :  PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini Alasannya https://t.co/ABEe2gATxR https://t.co/hTWPA8dLsM
+tak salah kait isu cemar danau toba alas 
+Vmap Positif : 1.18205614166e-24
+Vmap Negatif : 2.2212126487e-20
+Vmap Netral : 2.83230381791e-21
+negatif
+
+772
+Tweet :  PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini... https://t.co/2g7sO2RLnb
+tak salah kait isu cemar danau toba 
+Vmap Positif : 1.54636584452e-20
+Vmap Negatif : 4.91998601686e-17
+Vmap Netral : 3.06511919174e-17
+negatif
+
+773
+Tweet :  PT Aquafarm Tak Salahkan Media Terkait Isu Pencemaran Danau Toba, Ini Alasannya https://t.co/wIyvfyoYrv
+tak salah kait isu cemar danau toba alas 
+Vmap Positif : 1.18205614166e-24
+Vmap Negatif : 2.2212126487e-20
+Vmap Netral : 2.83230381791e-21
+negatif
+
+776
+Tweet :  Demi coin receh..anak anak ini rela menyelam di danau toba.. https://t.co/lmFfL2j9ft
+rela selam danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+781
+Tweet :  @chittabhon iya kutunggu di danau toba
+iya tunggu danau toba 
+Vmap Positif : 1.92336707747e-09
+Vmap Negatif : 6.55532957502e-09
+Vmap Netral : 3.34673950511e-09
+negatif
+
+783
+Tweet :  Knapa Raja Salman tdk ke Danau Toba? Apa krn isu lintah dan kutu? \ud83d\ude03\ud83d\ude03
+tidak danau toba isu 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-08
+Vmap Netral : 1.28012786071e-08
+negatif
+
+784
+Tweet :  Air Danau Toba Surut https://t.co/zOOUUh4hFx
+danau toba surut 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 1.45200550087e-05
+Vmap Netral : 6.33822261176e-06
+negatif
+
+809
+Tweet :  Danau Toba kek bengini gak sih? \ud83d\ude02\n#hoaks #alay #olahragapagi https://t.co/rjuJexV2es
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+815
+Tweet :  Cemari Danau Toba, Aqua Farm dan Suri Tani Digugat Rp 848 Triliun, Pemkab Dinilai Lalai https://t.co/WxLqzpfcCi
+cemar danau toba gugat nilai lalai 
+Vmap Positif : 3.74621444038e-19
+Vmap Negatif : 1.45303587031e-15
+Vmap Netral : 1.40024145485e-16
+negatif
+
+816
+Tweet :  Cemari Danau Toba, Aqua Farm dan Suri Tani Digugat Rp 848 Triliun, Pemkab Dinilai Lalai https://t.co/L7B3WZgmzm
+cemar danau toba gugat nilai lalai 
+Vmap Positif : 3.74621444038e-19
+Vmap Negatif : 1.45303587031e-15
+Vmap Netral : 1.40024145485e-16
+negatif
+
+818
+Tweet :  @BIGHWAMIN96 Desanya hilang ketelen ama danau toba
+desa hilang danau toba 
+Vmap Positif : 2.56448943663e-10
+Vmap Negatif : 1.93382222463e-08
+Vmap Netral : 3.76508194325e-10
+negatif
+
+822
+Tweet :  Ish ish jahatnyaaaalah. Mantan sih punya lah. Yatapi dah lama :(( *jorokin bang pu ke danau toba* https://t.co/Eq2HzNbUBA
+lama danau toba :( 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 5.04760377276e-08
+Vmap Netral : 1.10442403669e-08
+negatif
+
+840
+Tweet :  pisan-pisan ndolani firm adoh sisan piknik, ayo danau toba lae https://t.co/ZGe08I3LRJ
+pis sis danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+852
+Tweet :  Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba \u2013 https://t.co/cooNuz0tTg https://t.co/YayaxQHQ4c
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+857
+Tweet :  Ketua DPRD Simalungun Johalim Purba: Bisnis KJA Tidak Layak di Kawasan Danau Toba, Kaji Ulang Pemberian Izin https://t.co/e0dbzvLCCM
+ketua tidak danau toba beri 
+Vmap Positif : 1.6172632512e-13
+Vmap Negatif : 5.99302139477e-12
+Vmap Netral : 2.76008594374e-12
+negatif
+
+858
+Tweet :  Ketua DPRD Simalungun Johalim Purba: Bisnis KJA Tidak Layak di Kawasan Danau Toba, Kaji Ulang Pemberian Izin https://t.co/bNNmmmwGYS
+ketua tidak danau toba beri 
+Vmap Positif : 1.6172632512e-13
+Vmap Negatif : 5.99302139477e-12
+Vmap Netral : 2.76008594374e-12
+negatif
+
+866
+Tweet :  Terkait Lintah Serbu Danau Toba, Inilah Komentar PT Aquafarm Penyumbang Limbah\u00a0Terbesar https://t.co/d5Ykxo7S4X https://t.co/e7sCbo9N6I
+kait danau toba ini sumbang limbah 
+Vmap Positif : 1.68579649817e-17
+Vmap Negatif : 1.00209370366e-16
+Vmap Netral : 1.33951669788e-17
+negatif
+
+869
+Tweet :  Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba https://t.co/ZIQ2uTPel5 #indonesiakini
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+870
+Tweet :  #indonesia Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba https://t.co/q6zM8QZdlb
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+871
+Tweet :  Ini Kata PT Aquafarm Sang Penyumbang Limbah ke Danau Toba https://t.co/Hj0x3a3UTH ...
+sumbang limbah danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+872
+Tweet :  Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba https://t.co/iyrtvcbug1
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+873
+Tweet :  Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba https://t.co/if0TqvbJMz
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+876
+Tweet :  Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba https://t.co/VKbpZyV5CH https://t.co/NaY8amnf3I
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+877
+Tweet :  @peakpeemapoel dorm svt segera otw pindah lokasi di dalem danau toba :(
+segera danau toba :( 
+Vmap Positif : 2.56448943663e-10
+Vmap Negatif : 4.32651751951e-08
+Vmap Netral : 1.17135882679e-08
+negatif
+
+878
+Tweet :  @iniludaa raisa tenggelem di danau toba
+tenggelam danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 8.56683245511e-05
+Vmap Netral : 7.60586713411e-05
+negatif
+
+882
+Tweet :  RT @atlascitycasual: pisan-pisan ndolani firm adoh sisan piknik, ayo danau toba lae https://t.co/ZGe08I3LRJ
+pis sis danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+883
+Tweet :  Lintah atau hewan sejenisnya merebak akhir-akhir ini di kawasan Danau Toba. Harapannya ada sikap dari pihak yang mem\u2026https://t.co/iAkQDLNmL0
+jenis rebak akhir danau toba harap sikap 
+Vmap Positif : 1.26000179924e-20
+Vmap Negatif : 1.88505211374e-20
+Vmap Netral : 7.5091492335e-22
+negatif
+
+885
+Tweet :  RT @atlascitycasual: pisan-pisan ndolani firm adoh sisan piknik, ayo danau toba lae https://t.co/ZGe08I3LRJ
+pis sis danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+891
+Tweet :  39 Penyandang Disabilitas di Danau Toba Mendapat Bantuan Kaki Palsu https://t.co/z3wWzSgIMf
+sandang danau toba dapat bantu palsu 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 3.34031234555e-17
+Vmap Netral : 2.35754938828e-17
+negatif
+
+893
+Tweet :  RT @atlascitycasual: pisan-pisan ndolani firm adoh sisan piknik, ayo danau toba lae https://t.co/ZGe08I3LRJ
+pis sis danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+904
+Tweet :  Dingin2 jambulah.. (at Panatapan, Danau Toba Parapat) [pic] \u2014 https://t.co/j8ox5Gkf3Q
+dingin jambu danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 9.83299436253e-10
+Vmap Netral : 3.34673950511e-10
+negatif
+
+934
+Tweet :  Dinas LH Sumut Lambat Bekerja, Wisatawan Enggan Berenang di Danau Toba, Warga Minta Kepastian https://t.co/HtPw9oaRGl
+lambat kerja enggan renang danau toba pasti 
+Vmap Positif : 6.80400971591e-20
+Vmap Negatif : 7.84181679316e-19
+Vmap Netral : 2.22798933302e-20
+negatif
+
+935
+Tweet :  Dinas LH Sumut Lambat Bekerja, Wisatawan Enggan Berenang di Danau Toba, Warga Minta Kepastian https://t.co/UxAQGjgI7S
+lambat kerja enggan renang danau toba pasti 
+Vmap Positif : 6.80400971591e-20
+Vmap Negatif : 7.84181679316e-19
+Vmap Netral : 2.22798933302e-20
+negatif
+
+943
+Tweet :  Penambangan Batu Menggila di Tepian Danau Toba - https://t.co/2ldaEvw9hD
+tambang gila tepi danau toba 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 6.80688849776e-10
+Vmap Netral : 5.7984998818e-13
+negatif
+
+945
+Tweet :  Hebat! Jaringan Smartfren Stabil di Tengah Danau Toba https://t.co/baB2fm0RhM
+hebat jaring stabil danau toba 
+Vmap Positif : 1.47023931927e-14
+Vmap Negatif : 4.43927510723e-13
+Vmap Netral : 7.73133317573e-15
+negatif
+
+947
+Tweet :  Hebat! Jaringan Smartfren Stabil di Tengah Danau\u00a0Toba https://t.co/xQ1IdOuxQA https://t.co/nEpM1f4jje
+hebat jaring stabil danau 
+Vmap Positif : 8.13607054769e-14
+Vmap Negatif : 3.19772174391e-12
+Vmap Netral : 3.3935707819e-14
+negatif
+
+949
+Tweet :  Smartfren: Danau Toba Sudah Tercover Jaringan 4G LTE Advanced https://t.co/ktLRkqIgej https://t.co/6IklUl3hhB
+danau toba jaring 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 1.81092074622e-06
+negatif
+
+950
+Tweet :  Smartfren: Danau Toba Sudah Tercover Jaringan 4G LTE Advanced https://t.co/J6Dg5SEpGY https://t.co/ISmABiHZLt
+danau toba jaring 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 1.81092074622e-06
+negatif
+
+952
+Tweet :  Smartfren: Danau Toba Sudah Tercover Jaringan 4G LTE Advanced https://t.co/G4wAQ214ui https://t.co/RmrSAsg4o0
+danau toba jaring 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 1.81092074622e-06
+negatif
+
+957
+Tweet :  https://t.co/qhjWZuRpAr tau gak sih, asal usul danau toba #news #berita
+tau tidak asal danau toba 
+Vmap Positif : 8.82143591564e-13
+Vmap Negatif : 1.51024139148e-09
+Vmap Netral : 7.88595983925e-11
+negatif
+
+961
+Tweet :  SIDANG TUN PENCEMARAN AIR DANAU\u00a0TOBA https://t.co/SPMpcBo7qi https://t.co/tcMRLjhJwQ
+cemar danau 
+Vmap Positif : 4.64132243968e-06
+Vmap Negatif : 0.000303315685685
+Vmap Netral : 0.000222566603462
+negatif
+
+963
+Tweet :  [VIDEO] Di Tepi Danau Toba Muncul Hewan Aneh, Diduga.....Lihat Videonya https://t.co/eTPgKxncvU
+danau toba muncul aneh duga lihat video 
+Vmap Positif : 4.12364225207e-21
+Vmap Negatif : 9.95307516055e-19
+Vmap Netral : 2.57060458156e-19
+negatif
+
+964
+Tweet :  [VIDEO] Di Tepi Danau Toba Muncul Hewan Aneh, Diduga.....Lihat Videonya https://t.co/QRYvz9r5Cm
+danau toba muncul aneh duga lihat video 
+Vmap Positif : 4.12364225207e-21
+Vmap Negatif : 9.95307516055e-19
+Vmap Netral : 2.57060458156e-19
+negatif
+
+965
+Tweet :  [VIDEO] Di Tepi Danau Toba Muncul Hewan Aneh, Diduga.....Lihat Videonya https://t.co/fRz4Z6UM1Q https://t.co/gWzsQuQdxv
+danau toba muncul aneh duga lihat video 
+Vmap Positif : 4.12364225207e-21
+Vmap Negatif : 9.95307516055e-19
+Vmap Netral : 2.57060458156e-19
+negatif
+
+966
+Tweet :  @chaenwoe @KTHBR0 @ParkRoseannne @irnevelt @Astrockiee tenggelem di danau toba
+tenggelam danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 8.56683245511e-05
+Vmap Netral : 7.60586713411e-05
+negatif
+
+967
+Tweet :  Dulu Q takut ke pantai se lps nonton film JAWs\nKini Q takut nak ke Danau Toba pula se lps lihat ikan ni? https://t.co/UcKJCbJVqU
+takut takut danau toba lihat 
+Vmap Positif : 1.17619145542e-13
+Vmap Negatif : 4.73522678105e-12
+Vmap Netral : 7.65401984398e-13
+negatif
+
+1010
+Tweet :  RT @citraks17: Min @infomalang daerah ranu grati sampe danau toba, sawojajar banjir enggak?\ud83d\ude02
+danau toba banjir enggak 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.311065915e-09
+Vmap Netral : 2.09171219069e-10
+negatif
+
+1012
+Tweet :  Min @infomalang daerah ranu grati sampe danau toba, sawojajar banjir enggak?\ud83d\ude02
+danau toba banjir enggak 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.311065915e-09
+Vmap Netral : 2.09171219069e-10
+negatif
+
+1015
+Tweet :  Pembacaan Gugatan Pencabutan Izin Usaha Perikanan Menghadirkan Tergugat BP2TPM Simalungun dan PT Suri Tani Pemuka.\u2026 https://t.co/RssW9Du863
+baca gugat cabut usaha ikan hadir gugat muka 
+Vmap Positif : 7.61703536141e-32
+Vmap Negatif : 1.67591542242e-25
+Vmap Netral : 3.03380353139e-28
+negatif
+
+1016
+Tweet :  Siapa yg berani mengambil poto ku tanpa izin ....???\n.\n.\n.\n.\nLoc: Paropo Tao Silalahi, Dairi,\u2026 https://t.co/bQt3NGtQ7Y
+berani ambil 
+Vmap Positif : 3.8565205149e-09
+Vmap Negatif : 5.04461169229e-08
+Vmap Netral : 9.15761205818e-09
+negatif
+
+1021
+Tweet :  RT @Joemarbun: Gugatan YPDT Terhadap Perusahaan Pencemaran Danau Toba Mulai Disidangkan https://t.co/sRHim6Df0z
+gugat hadap usaha cemar danau toba sidang 
+Vmap Positif : 3.15000449811e-22
+Vmap Negatif : 3.27999067791e-18
+Vmap Netral : 2.69867270915e-19
+negatif
+
+1028
+Tweet :  6 Hal Mengerikan Jika Danau Toba Meletus Sekali Lagi . https://t.co/sZIz1phVCD https://t.co/0DGyq7SKVl
+keri danau toba letus 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-08
+Vmap Netral : 8.28318027515e-09
+negatif
+
+1035
+Tweet :  zona wisata halal di kawasan danau toba,, ngeri x bahasanya
+halal danau toba ngeri bahasa 
+Vmap Positif : 9.80159546182e-14
+Vmap Negatif : 2.21963755362e-13
+Vmap Netral : 3.47909992908e-14
+negatif
+
+1041
+Tweet :  Hebat! Jaringan Smartfren Stabil di Tengah Danau Toba https://t.co/Qc9minr4OI Pengomptimalan jaringan juga dilakukan di lokasi-lokasi wisa\u2026
+hebat jaring stabil danau toba jaring laku lokasi 
+Vmap Positif : 1.83875399814e-25
+Vmap Negatif : 3.06374158441e-23
+Vmap Netral : 1.22000552127e-25
+negatif
+
+1042
+Tweet :  Sidang TUN Pencemaran Air Danau Toba: \u201cPembacaan Gugatan Pencabutan Izin Usaha Perikanan PT Suri Tani Pemuka Menghad\u2026https://t.co/oXZNwezib0
+cemar danau toba gugat cabut usaha ikan muka had 
+Vmap Positif : 3.68122938454e-30
+Vmap Negatif : 4.66304235505e-23
+Vmap Netral : 3.37000878305e-26
+negatif
+
+1043
+Tweet :  Sidang TUN Pencemaran Air Danau Toba: \u201cPembacaan Gugatan Pencabutan Izin Usaha Perikanan PT Suri Tani Pemuka\u201d https://t.co/DIkhlEkaAP #YPDT
+cemar danau toba gugat cabut usaha ikan muka 
+Vmap Positif : 4.81578428085e-26
+Vmap Negatif : 2.06572776329e-19
+Vmap Netral : 7.29404701003e-22
+negatif
+
+1045
+Tweet :  Gugatan YPDT Terhadap Perusahaan Pencemaran Danau Toba Mulai Disidangkan https://t.co/YouwkTCyn4 \n#YPDT #DanauToba #NoKeramba #SaveLakeToba
+gugat hadap usaha cemar danau toba sidang 
+Vmap Positif : 3.15000449811e-22
+Vmap Negatif : 3.27999067791e-18
+Vmap Netral : 2.69867270915e-19
+negatif
+
+1046
+Tweet :  Gugatan YPDT Terhadap Perusahaan Pencemaran Danau Toba Mulai Disidangkan https://t.co/sRHim6Df0z
+gugat hadap usaha cemar danau toba sidang 
+Vmap Positif : 3.15000449811e-22
+Vmap Negatif : 3.27999067791e-18
+Vmap Netral : 2.69867270915e-19
+negatif
+
+1047
+Tweet :  Lingkungan Rusak, Pemerintah Kena Gugat Pulihkan Danau Toba - https://t.co/G0pF7yAZwf #YPDT #NoKeramba #SaveLakeToba #GerakanCintaDanauToba
+lingkung rusak perintah gugat pulih danau toba 
+Vmap Positif : 2.8350040483e-20
+Vmap Negatif : 4.75033132663e-19
+Vmap Netral : 1.10508270918e-19
+negatif
+
+1048
+Tweet :  Sidang Lanjutan Pencabutan Izin Usaha Perikanan di Danau Toba Digelar https://t.co/HNvQRbdejK via @@KedaiPena #YPDT #SaveLakeToba #NoKeramba
+lanjut cabut usaha ikan danau toba gelar 
+Vmap Positif : 6.30000899621e-21
+Vmap Negatif : 1.75309846578e-18
+Vmap Netral : 1.87943277959e-19
+negatif
+
+1050
+Tweet :  Bhabinkamtibmas Polsek T.Panah Aiptu T. Tarigan menghadiri Rapat ttg Pengosongan Keramba Ikan Danau Toba di kntr Ka\u2026 https://t.co/NzaLKDC0d7
+hadir kosong danau toba 
+Vmap Positif : 5.77010123242e-10
+Vmap Negatif : 9.83299436253e-10
+Vmap Netral : 7.5301638865e-10
+negatif
+
+1082
+Tweet :  Ketika kabarnya Danau Toba ada limbah[lintah] masing2 saling menutupi kedoknya. Kapan kelar? https://t.co/PQYOxkQJS5
+kabar danau toba limbah tutup kedok 
+Vmap Positif : 3.74621444038e-19
+Vmap Negatif : 6.6806246911e-17
+Vmap Netral : 1.87532337704e-18
+negatif
+
+1086
+Tweet :  Kejati Sumut Tahan 2 Koruptor Pesta Danau Toba https://t.co/qwDrenZcUp #eksposnews
+kejat tahan koruptor danau toba 
+Vmap Positif : 1.47023931927e-14
+Vmap Negatif : 1.66472816521e-11
+Vmap Netral : 1.93283329393e-15
+negatif
+
+1092
+Tweet :  Kejati Tahan 2 Tersangak Korupsi Pesta Danau\u00a0Toba https://t.co/Jwp3CuLx9w https://t.co/V4syU32e5R
+kejat tahan korupsi danau 
+Vmap Positif : 8.13607054769e-14
+Vmap Negatif : 1.49893206746e-08
+Vmap Netral : 2.79969589507e-13
+negatif
+
+1093
+Tweet :  bolehlah ya warga tabagsel dan tapteng iri pd sekitaran danau toba perihal kualitas jalinsumnya..
+boleh ya iri danau toba 
+Vmap Positif : 1.91131111506e-13
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 2.53201161505e-13
+negatif
+
+1094
+Tweet :  RT @Metro_TV: Sekretaris dan Bendahara Pesta Danau Toba 2012 Ditahan https://t.co/mDi3g5DNgd https://t.co/hBkxoIZt81
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1100
+Tweet :  RT @Metro_TV: Sekretaris dan Bendahara Pesta Danau Toba 2012 Ditahan https://t.co/mDi3g5DNgd https://t.co/hBkxoIZt81
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1101
+Tweet :  RT @Metro_TV: Sekretaris dan Bendahara Pesta Danau Toba 2012 Ditahan https://t.co/mDi3g5DNgd https://t.co/hBkxoIZt81
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1102
+Tweet :  Sekretaris dan Bendahara Pesta Danau Toba 2012 Ditahan https://t.co/mDi3g5DNgd https://t.co/hBkxoIZt81
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1103
+Tweet :  Lupa x y. Apa kecemplung di danau toba makanya gangabarin? EeQ
+lupa cemplung danau toba 
+Vmap Positif : 7.05234595073e-10
+Vmap Negatif : 2.29436535126e-09
+Vmap Netral : 4.60176681953e-10
+negatif
+
+1105
+Tweet :  Rugikan negara sejumlah Rp 841 juta, Sekretaris dan Bendahara Pesta Danau Toba 2012 ditahan di Rutan Tanjung Gusta.\u00a0(2)
+rugi negara jumlah danau toba tahan 
+Vmap Positif : 1.12386433212e-18
+Vmap Negatif : 7.51570277749e-16
+Vmap Netral : 2.85763562215e-18
+negatif
+
+1106
+Tweet :  Kejati Sumut Tahan Sekretaris dan Bendahara Pesta Danau Toba 2012. (1)
+kejat tahan danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 7.37474577189e-08
+Vmap Netral : 4.18342438139e-11
+negatif
+
+1133
+Tweet :  Hujan Terus Menerus, Air Danau Masih Surut https://t.co/C4FpGXpBjU https://t.co/Zvz5PyJ6h8
+terus danau masih surut 
+Vmap Positif : 4.88164232861e-12
+Vmap Negatif : 2.66476811993e-11
+Vmap Netral : 2.43488703601e-12
+negatif
+
+1142
+Tweet :  Ada 'Kekuatan Mengerikan' di Bawah Permukaan Danau Toba?` | https://t.co/PhAAopSRXs https://t.co/QQcJSkn94x lewat @dreamcoid
+kuat keri muka danau toba 
+Vmap Positif : 8.82143591564e-14
+Vmap Negatif : 8.87855021447e-12
+Vmap Netral : 1.35684897234e-12
+negatif
+
+1152
+Tweet :  Keknya udah emosi kali dia yang nulis ini bah.\n#KudukungKauCes https://t.co/snRBqfBHoE
+kek emosi 
+Vmap Positif : 1.92826025745e-09
+Vmap Negatif : 3.36307446153e-08
+Vmap Netral : 7.04431696783e-10
+negatif
+
+1157
+Tweet :  Dugaan Korupsi Pesta Danau Toba 2012, Kejatisu Tahan Imman dan Jasman Saragih https://t.co/tDvEsBs2i3 https://t.co/QlakyekC9N
+duga korupsi danau toba tahan 
+Vmap Positif : 2.94047863855e-14
+Vmap Negatif : 1.3734007363e-08
+Vmap Netral : 3.76322642329e-12
+negatif
+
+1158
+Tweet :  Dugaan Korupsi Pesta Danau Toba 2012, Kejatisu Tahan Imman dan Jasman Saragih https://t.co/x2G3Rkbed6 https://t.co/w4A0AoaOYl
+duga korupsi danau toba tahan 
+Vmap Positif : 2.94047863855e-14
+Vmap Negatif : 1.3734007363e-08
+Vmap Netral : 3.76322642329e-12
+negatif
+
+1159
+Tweet :  Dugaan Korupsi Pesta Danau Toba 2012, Kejatisu Tahan Imman dan Jasman Saragih https://t.co/Yk5ty4qXD7 https://t.co/rkIPnhwl9c
+duga korupsi danau toba tahan 
+Vmap Positif : 2.94047863855e-14
+Vmap Negatif : 1.3734007363e-08
+Vmap Netral : 3.76322642329e-12
+negatif
+
+1160
+Tweet :  Dugaan Korupsi Pesta Danau Toba 2012, Kejatisu Tahan Imman dan Jasman Saragih https://t.co/XdZpRZOWp3 https://t.co/pioVmMUy3Y
+duga korupsi danau toba tahan 
+Vmap Positif : 2.94047863855e-14
+Vmap Negatif : 1.3734007363e-08
+Vmap Netral : 3.76322642329e-12
+negatif
+
+1162
+Tweet :  \u2022\nEdisi kondangan sawer,\nBukak calaknya @vanasitepu @ Hotel danau toba https://t.co/W5ntkQpkLq
+calak danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1165
+Tweet :  Konon kabarnya... \nDibalik kabut itu danau toba...\nKurang beruntung... (at Pearl of Lake Toba) [pic] \u2014 https://t.co/l1UDoZeuxg
+kabar danau toba untung toba 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 9.10051396983e-11
+Vmap Netral : 8.57772087515e-11
+negatif
+
+1172
+Tweet :  tak lama lagi pangeran Arab akan wisata ke Danau Toba di Pulau  Sumatera. horas ma dihamu amang pangeran dohot bori, bere dll, GBU.
+tak lama danau toba bor 
+Vmap Positif : 2.94047863855e-14
+Vmap Negatif : 5.17915429177e-11
+Vmap Netral : 2.80647394279e-12
+negatif
+
+1173
+Tweet :  Dugaan Korupsi Pesta Danau Toba, Kejatisu Tahan Dua Tersangka https://t.co/vE999K4y6F https://t.co/vvx7TYXs5o
+duga korupsi danau toba tahan sangka 
+Vmap Positif : 2.24772866423e-18
+Vmap Negatif : 1.20908868433e-10
+Vmap Netral : 1.73869267385e-16
+negatif
+
+1174
+Tweet :  Dugaan Korupsi Pesta Danau Toba,  Kejatisu Tahan Dua Tersangka https://t.co/l3A96oAGmb #metro24jam
+duga korupsi danau toba tahan sangka 
+Vmap Positif : 2.24772866423e-18
+Vmap Negatif : 1.20908868433e-10
+Vmap Netral : 1.73869267385e-16
+negatif
+
+1175
+Tweet :  Air danau toba surut tanya pengelola sigura gura.tak usah risau
+danau toba surut kelola tak risau 
+Vmap Positif : 3.59636586277e-17
+Vmap Negatif : 1.67015617277e-14
+Vmap Netral : 6.32609085854e-16
+negatif
+
+1180
+Tweet :  RT @YPDT2017: Sidang TUN Pencemaran Air Danau Toba: \u201cPembacaan Gugatan Pencabutan Izin Usaha Perikanan PT Suri Tani Pemuka\u201d https://t.co/DI\u2026
+cemar danau toba gugat cabut usaha ikan muka 
+Vmap Positif : 4.81578428085e-26
+Vmap Negatif : 2.06572776329e-19
+Vmap Netral : 7.29404701003e-22
+negatif
+
+1181
+Tweet :  Kejatisu Tahan Bendahara dan Wakil Sekretaris Panitia Pesta Danau Toba 2012 https://t.co/xTMPW4QPUv
+tahan danau toba 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1182
+Tweet :  Kejatisu Tahan Bendahara dan Wakil Sekretaris Panitia Pesta Danau Toba 2012 https://t.co/kqRB65g18r
+tahan danau toba 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1185
+Tweet :  Sekretaris dan Bendahara Pesta Danau Toba 2012 Ditahan: https://t.co/Ctrr2H2tyA, Medan: Dua\u2026 https://t.co/pCQbyAIV5S
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1186
+Tweet :  Sekretaris dan Bendahara Pesta Danau Toba 2012 Ditahan: https://t.co/Ctrr2H2tyA, Medan: Dua\u2026 https://t.co/CMq6qLj9oT
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1187
+Tweet :  Maafkan kealay'an kami. Gaya nya entah apa2 smua\ud83d\ude06\ud83d\ude02. @ Inna Parapat Hotel https://t.co/L94eiVCpqD
+maaf 
+Vmap Positif : 2.5225500688e-05
+Vmap Negatif : 7.44920993228e-05
+Vmap Netral : 1.52467196452e-05
+negatif
+
+1207
+Tweet :  Setelah mendaki akhirnya nyampe juga di puncak,\nTerlihatlah Tangkuban Perahu Danau Toba.\nNamanya\u2026 https://t.co/xVhiwwOZ8Q
+telah daki akhir danau toba 
+Vmap Positif : 1.96031909236e-13
+Vmap Negatif : 1.10981877681e-12
+Vmap Netral : 3.01521993854e-13
+negatif
+
+1210
+Tweet :  Kejap jumpa view macam kat Thai, kejap macam kat Danau toba masa pi Medan. Hahaa ini lah bestnya roadtrip. Tapi letih dok tahan tu\ud83d\ude02
+danau toba letih tahan 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.94989830876e-08
+Vmap Netral : 4.18342438139e-11
+negatif
+
+1220
+Tweet :  Uji Lab Buktikan Aquafarm Nusantara Cemari Danau Toba https://t.co/1Wz7UXYugC #metro24jam
+bukti cemar danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.90104557675e-08
+Vmap Netral : 4.68543530716e-09
+negatif
+
+1221
+Tweet :  Uji Lab Buktikan Aquafarm Nusantara Cemari Danau Toba https://t.co/Yet74MmQ0L https://t.co/NQVA7L9Ojp
+bukti cemar danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.90104557675e-08
+Vmap Netral : 4.68543530716e-09
+negatif
+
+1222
+Tweet :  RT @YPDT2017: Pencemaran Danau Toba Diduga Akibat Keramba Jaring Apung https://t.co/qc1l6Ayyq7
+cemar danau toba duga 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.13672520165e-07
+Vmap Netral : 1.38220341561e-07
+negatif
+
+1223
+Tweet :  RT @TweetParpol: 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/BglYJOIk1G #Berita_Utama #News https://\u2026
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1227
+Tweet :  RT @TweetParpol: 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/BglYJOIk1G #Berita_Utama #News https://\u2026
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1229
+Tweet :  RT @roninpribumi: 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/Cg8m6LyKBn https://t.co/EDj9krYJPT
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1234
+Tweet :  RT @TweetParpol: 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/BglYJOIk1G #Berita_Utama #News https://\u2026
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1235
+Tweet :  RT @NegeriBoneka: #Berita_Utama https://t.co/wCMohL1m8T-Danau Toba meletus? Bukannya itu danau ya bukan gunung? Memang benar Toba\u2026 https://\u2026
+utama toba letus bukan danau ya bukan benar toba 
+Vmap Positif : 6.91130871377e-24
+Vmap Negatif : 1.49998851522e-20
+Vmap Netral : 1.23369902202e-20
+negatif
+
+1236
+Tweet :  RT @harianpublik: 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/Yf5cDQthcN #Berita_Utama https://t.co/\u2026
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1238
+Tweet :  RT @TweetParpol: 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/BglYJOIk1G #Berita_Utama #News https://\u2026
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1239
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/BglYJOIk1G #Berita_Utama #News https://t.co/RUQB9ZWAji
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1240
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/Yf5cDQthcN #Berita_Utama https://t.co/sXzV6MxrAU
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1241
+Tweet :  #AlQuranPedomanKami 6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/FqXueRdwrP\u2026 https://t.co/pOIYvRNOna
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1242
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/Cg8m6LyKBn https://t.co/EDj9krYJPT
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1243
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/w6GNOQb4Hv https://t.co/Ih6MAbs10r
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1244
+Tweet :  https://t.co/nrZ7rr6R5o-Danau Toba meletus? Bukannya itu danau ya bukan gunung? Memang benar Toba\u2026\u2026 https://t.co/CxvTTjl6ym
+toba letus bukan danau ya bukan benar toba 
+Vmap Positif : 1.29162486562e-20
+Vmap Negatif : 6.64494912243e-17
+Vmap Netral : 3.33777270406e-17
+negatif
+
+1245
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/xHFA3yJkcX #Berita_Utama https://t.co/yM3bZnsMOq
+keri jadi danau toba letus utama 
+Vmap Positif : 2.8845851191e-16
+Vmap Negatif : 6.34659345654e-14
+Vmap Netral : 2.99880282189e-14
+negatif
+
+1246
+Tweet :  #Berita_Utama https://t.co/wCMohL1m8T-Danau Toba meletus? Bukannya itu danau ya bukan gunung? Memang benar Toba\u2026\u2026 https://t.co/MWlVRl0eOm
+utama toba letus bukan danau ya bukan benar toba 
+Vmap Positif : 6.91130871377e-24
+Vmap Negatif : 1.49998851522e-20
+Vmap Netral : 1.23369902202e-20
+negatif
+
+1247
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/Qxqv34jBrh https://t.co/kgDmLid2SB
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1251
+Tweet :  Pam Pelantikan Satgas Inti Maha Sakti Karya DPD Ikatan Pemuda Karya Sumatera Utara  Priode Tahun 2017 - 2020 Di Cov\u2026 https://t.co/HrWpZYwLPD
+lantik sakti karya ikat karya 
+Vmap Positif : 3.87574976769e-20
+Vmap Negatif : 1.93417296562e-19
+Vmap Netral : 1.66739139273e-21
+negatif
+
+1272
+Tweet :  @Omar_Omark godek2 lappy, cari2 celah semak, dah release. Cuma tak jumpa lagi. Kne pegi danau toba kot.
+cari celah tak danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 1.84969796135e-11
+Vmap Netral : 1.70089329866e-12
+negatif
+
+1277
+Tweet :  Tak mengejutkan kecuali ke danau Toba https://t.co/WNWr84uK6s
+tak kejut danau toba 
+Vmap Positif : 3.84673415495e-10
+Vmap Negatif : 1.63883239375e-08
+Vmap Netral : 1.84070672781e-09
+negatif
+
+1278
+Tweet :  Pencemaran Danau Toba Diduga Akibat Keramba Jaring Apung https://t.co/qc1l6Ayyq7
+cemar danau toba duga 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.13672520165e-07
+Vmap Netral : 1.38220341561e-07
+negatif
+
+1280
+Tweet :  @ccaeyon di danau toba nohh, abis cere dia ama taejun
+danau toba abis 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 3.62184149243e-06
+negatif
+
+1281
+Tweet :  RT @xonmjx: @whoxthat di pinggirannya. Bodoh. Anggap saja bkt itu danau toba/?
+pinggir bodoh anggap danau toba 
+Vmap Positif : 3.43055841164e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 6.18506654059e-14
+negatif
+
+1282
+Tweet :  @whoxthat di pinggirannya. Bodoh. Anggap saja bkt itu danau toba/?
+pinggir bodoh anggap danau toba 
+Vmap Positif : 3.43055841164e-14
+Vmap Negatif : 5.91903347631e-13
+Vmap Netral : 6.18506654059e-14
+negatif
+
+1283
+Tweet :  Dugaan Korupsi Pesta Danau Toba 2012, Kejatisu Tahan Imman dan Jasman Saragih https://t.co/ilnz94tUXK
+duga korupsi danau toba tahan 
+Vmap Positif : 2.94047863855e-14
+Vmap Negatif : 1.3734007363e-08
+Vmap Netral : 3.76322642329e-12
+negatif
+
+1292
+Tweet :  Sekretaris dan Bendahara Pesta Danau Toba Ditahan
+danau toba tahan 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 6.5340247539e-05
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1304
+Tweet :  Kejati Sumut Bidik Dugaan Korupsi Proyek Jalan Lingkar Danau Toba https://t.co/XdKmOKlrUc
+kejat duga korupsi jalan danau toba 
+Vmap Positif : 7.19273172554e-17
+Vmap Negatif : 3.44469710635e-12
+Vmap Netral : 3.63386768835e-14
+negatif
+
+1305
+Tweet :  Kejati Sumut Bidik Dugaan Korupsi Proyek Jalan Lingkar Danau Toba https://t.co/ilOuVWvtKl
+kejat duga korupsi jalan danau toba 
+Vmap Positif : 7.19273172554e-17
+Vmap Negatif : 3.44469710635e-12
+Vmap Netral : 3.63386768835e-14
+negatif
+
+1307
+Tweet :  Kau merendam orang di danau Toba\nApa maksudnya itu? https://t.co/bOo1wz8qkY
+rendam danau toba maksud 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 2.51005462883e-10
+negatif
+
+1308
+Tweet :  Nahhh...\nKlu punya kampung juga di tepian danau Toba, jangan kau nodai https://t.co/VvN36xsNGO
+tepi danau toba jangan noda 
+Vmap Positif : 2.54841482007e-13
+Vmap Negatif : 2.51558922743e-11
+Vmap Netral : 1.44962497045e-12
+negatif
+
+1310
+Tweet :  @siycaa iya tau yg jidatnya cem danau toba:)
+iya tau jidat danau toba :) 
+Vmap Positif : 4.04591159561e-16
+Vmap Negatif : 1.5031405555e-15
+Vmap Netral : 1.14305424886e-16
+negatif
+
+1318
+Tweet :  Dengar lagu My Heart Will Go On (Celine Dion) di tepi Danau Toba ktk pacar pamitan mau studi ke Jakarta. I miss you\u2026 https://t.co/rNQwBm4Q7z
+dengar danau toba pamit mau 
+Vmap Positif : 8.82143591564e-14
+Vmap Negatif : 5.17915429177e-13
+Vmap Netral : 4.54215824074e-13
+negatif
+
+1320
+Tweet :  https://t.co/dW5Vc3Ov8X-Danau Toba meletus? Bukannya itu danau ya bukan gunung? Memang benar Toba\u2026\u2026 https://t.co/I7S6DptFoi
+toba letus bukan danau ya bukan benar toba 
+Vmap Positif : 1.29162486562e-20
+Vmap Negatif : 6.64494912243e-17
+Vmap Netral : 3.33777270406e-17
+negatif
+
+1325
+Tweet :  Antara mendung di timur dan cahaya di selatan. \n\n#Toba (at Inna Parapat Hotel) [pic] \u2014 https://t.co/9oFCRqKeWL
+mendung cahaya toba 
+Vmap Positif : 2.09069282156e-09
+Vmap Negatif : 7.00324196559e-09
+Vmap Netral : 1.60485709519e-10
+negatif
+
+1329
+Tweet :  Tepian Danau Toba, Tongging https://t.co/2IpFslzZNL
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+1337
+Tweet :  Perkara Pencemaran Danau Toba, PT Suri Tani Pemuka Masuk Sebagai Tergugat Intervensi https://t.co/YSRPDFtjAl
+perkara cemar danau toba muka masuk bagai gugat 
+Vmap Positif : 6.74209799319e-24
+Vmap Negatif : 3.33181897305e-20
+Vmap Netral : 5.60542516798e-21
+negatif
+
+1341
+Tweet :  Kalau bisa tunda dulu ke luar? tempat wisata lokal ga kalah eloknya? con:  ke Bali,Anyer,Karang Bolong,Danau Toba ,Raja Ampat dll \ud83d\udc9e
+bisa tunda luar tidak kalah elok bal bolong danau toba 
+Vmap Positif : 4.58256804651e-30
+Vmap Negatif : 6.32265816226e-29
+Vmap Netral : 5.37912881973e-30
+negatif
+
+1343
+Tweet :  Lompatlah aku dek ? \ud83d\ude22 (at Atsari Hotel &amp; Bungalow Danau Toba) [pic] \u2014 https://t.co/M5TeHWgfBG
+lompat danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1344
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika DANAU TOBA Meletus Sekali Lagi. https://t.co/NHWzevXL14
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1345
+Tweet :  VIDEO Tragedi Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Lalu https://t.co/mRzmeXPrHe
+ledak toba danau toba 
+Vmap Positif : 4.54683977115e-07
+Vmap Negatif : 1.00788192216e-06
+Vmap Netral : 8.25138624985e-07
+negatif
+
+1354
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika DANAU TOBA Meletus Sekali Lagi. https://t.co/1a3GzDbzN6
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1355
+Tweet :  Perkara Pencemaran Danau Toba, PT Suri Tani Pemuka Masuk Sebagai Tergugat Intervensi https://t.co/i5KrD7hlPd https://t.co/3tgfk72B3Q
+perkara cemar danau toba muka masuk bagai gugat 
+Vmap Positif : 6.74209799319e-24
+Vmap Negatif : 3.33181897305e-20
+Vmap Netral : 5.60542516798e-21
+negatif
+
+1357
+Tweet :  Perkara Pencemaran Danau Toba, PT Suri Tani Pemuka Masuk Sebagai Tergugat Intervensi https://t.co/yOsuPFonci https://t.co/5siops7D4e
+perkara cemar danau toba muka masuk bagai gugat 
+Vmap Positif : 6.74209799319e-24
+Vmap Negatif : 3.33181897305e-20
+Vmap Netral : 5.60542516798e-21
+negatif
+
+1358
+Tweet :  Perkara Pencemaran Danau Toba, PT Suri Tani Pemuka Masuk Sebagai Tergugat Intervensi https://t.co/04pCa2M0eJ https://t.co/BLZea4ZwgI
+perkara cemar danau toba muka masuk bagai gugat 
+Vmap Positif : 6.74209799319e-24
+Vmap Negatif : 3.33181897305e-20
+Vmap Netral : 5.60542516798e-21
+negatif
+
+1359
+Tweet :  Perkara Pencemaran Danau Toba, PT Suri Tani Pemuka Masuk Sebagai Tergugat Intervensi https://t.co/Tf0bqvXlje https://t.co/3WvvgkvgOn
+perkara cemar danau toba muka masuk bagai gugat 
+Vmap Positif : 6.74209799319e-24
+Vmap Negatif : 3.33181897305e-20
+Vmap Netral : 5.60542516798e-21
+negatif
+
+1360
+Tweet :  Perkara Pencemaran Danau Toba, PT Suri Tani Pemuka Masuk Sebagai Tergugat Intervensi https://t.co/wxt97SYB2n https://t.co/tcQzSu6wmE
+perkara cemar danau toba muka masuk bagai gugat 
+Vmap Positif : 6.74209799319e-24
+Vmap Negatif : 3.33181897305e-20
+Vmap Netral : 5.60542516798e-21
+negatif
+
+1363
+Tweet :  Sidang Gugatan YPDT Tentang Pencemaran Danau Toba Berlanjut di PTUN Medan https://t.co/fuZAulEHUW https://t.co/a5GKqDReSg
+gugat cemar danau toba lanjut 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 6.43694890549e-12
+Vmap Netral : 1.73181863136e-12
+negatif
+
+1370
+Tweet :  tgl 18 d siantar lanjut hilangkan lelah fogo di danau toba, bagi yg naik mobil dikenakan biaya 75K. info hub cp,... https://t.co/YTmT2FihNN
+hilang lelah danau toba naik kena biaya 
+Vmap Positif : 1.37454741736e-21
+Vmap Negatif : 1.33461689653e-18
+Vmap Netral : 1.03972835541e-19
+negatif
+
+1371
+Tweet :  tgl 18 d siantar lanjut hilangkan lelah fogo di danau toba, bagi yg naik mobil dikenakan biaya 75K. info hub cp, mi\u2026 https://t.co/jq3xAo5QSV
+hilang lelah danau toba naik kena biaya 
+Vmap Positif : 1.37454741736e-21
+Vmap Negatif : 1.33461689653e-18
+Vmap Netral : 1.03972835541e-19
+negatif
+
+1374
+Tweet :  Sidang TUN Pencemaran Danau Toba, PT Suri Tani Pemuka Menyerahkan Permohonan Sebagai\u2026 https://t.co/O8otbIKExh https://t.co/jGgh1Ch65Z
+cemar danau toba muka serah mohon bagai 
+Vmap Positif : 6.30000899621e-21
+Vmap Negatif : 5.90398322024e-18
+Vmap Netral : 1.83823973236e-18
+negatif
+
+1385
+Tweet :  VIDEO Tragedi Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Lalu https://t.co/U1Ay8ok6wW
+ledak toba danau toba 
+Vmap Positif : 4.54683977115e-07
+Vmap Negatif : 1.00788192216e-06
+Vmap Netral : 8.25138624985e-07
+negatif
+
+1392
+Tweet :  Uji Lab Buktikan Aquafarm Nusantara Cemari Danau Toba https://t.co/2TNvqWKTXX via @Metro24Jamcom
+bukti cemar danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 1.90104557675e-08
+Vmap Netral : 4.68543530716e-09
+negatif
+
+1399
+Tweet :  VIDEO Tragedi Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Lalu https://t.co/1FFn3WNvc9
+ledak toba danau toba 
+Vmap Positif : 4.54683977115e-07
+Vmap Negatif : 1.00788192216e-06
+Vmap Netral : 8.25138624985e-07
+negatif
+
+1401
+Tweet :  VIDEO Tragedi Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Lalu via @sitobatabo https://t.co/7x4Kk7nOL2
+ledak toba danau toba 
+Vmap Positif : 4.54683977115e-07
+Vmap Negatif : 1.00788192216e-06
+Vmap Netral : 8.25138624985e-07
+negatif
+
+1402
+Tweet :  Kasus Pencemaran Danau Toba, BKPM Takut Izin Aquafarm Dicabut https://t.co/o8mBCahS4c https://t.co/UOU2scnYeU
+kasus cemar danau toba takut cabut 
+Vmap Positif : 3.74621444038e-19
+Vmap Negatif : 1.22055013106e-13
+Vmap Netral : 1.50025870163e-17
+negatif
+
+1405
+Tweet :  Danau Toba Ku Hilang :V
+danau toba hilang 
+Vmap Positif : 1.6774325405e-06
+Vmap Negatif : 8.56683245511e-05
+Vmap Netral : 8.14914335797e-06
+negatif
+
+1413
+Tweet :  RT @sitobatabo: Wow, Warga Samosir Temukan Ikan Raksasa Terdampar Akibat Surutnya Air Danau Toba via @sitobatabo https://t.co/x0EER93dId
+wow temu dampar surut danau toba 
+Vmap Positif : 6.74318599269e-17
+Vmap Negatif : 1.16910932094e-14
+Vmap Netral : 1.35023283147e-16
+negatif
+
+1414
+Tweet :  Wow, Warga Samosir Lihat Ikan Raksasa Terdampar Akibat Surutnya Air Danau Toba via @sitobatabo https://t.co/x0EER93dId
+wow lihat dampar surut danau toba 
+Vmap Positif : 5.39454879415e-16
+Vmap Negatif : 6.6806246911e-16
+Vmap Netral : 1.65028457179e-16
+negatif
+
+1418
+Tweet :  @antaranews borobudur di jawa tengah, danau toba di sumatera utara, pulau morotai di maluku utara.
+danau toba malu 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1422
+Tweet :  Tobat kak \ud83d\ude03 \n\nGunung di dasar danau toba udah aktif \ud83d\ude03 /lah https://t.co/3O9PsdNFtu
+tobat danau toba aktif 
+Vmap Positif : 2.56448943663e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+1432
+Tweet :  AIR DANAU TOBA SEMAKIN SURUT, WARGA TEMUKAN IKAN RAKSASA\n\nhttps://t.co/ElBaHDaV9a https://t.co/vsCg4BijDK
+danau toba makin surut temu 
+Vmap Positif : 9.40953164335e-13
+Vmap Negatif : 1.55374628753e-10
+Vmap Netral : 4.87073990071e-12
+negatif
+
+1437
+Tweet :  ASN dan Warga Gotong Royong Bersihkan Sampah di Danau Toba https://t.co/Prvp0OrTa6
+gotong royong sih sampah danau toba 
+Vmap Positif : 6.74318599269e-18
+Vmap Negatif : 3.34031234555e-17
+Vmap Netral : 1.60742003746e-18
+negatif
+
+1438
+Tweet :  ASN dan Warga Gotong Royong Bersihkan Sampah di Danau Toba: Aparat Sipil Negara (ASN) Pemerintah\u2026... https://t.co/PClJ7cr9NP
+gotong royong sih sampah danau toba aparat negara perintah 
+Vmap Positif : 6.62621289217e-29
+Vmap Negatif : 2.68951480949e-27
+Vmap Netral : 7.86318472637e-29
+negatif
+
+1439
+Tweet :  ASN dan Warga Gotong Royong Bersihkan Sampah di Danau Toba: Aparat Sipil Negara (ASN) Pemerintah\u2026 https://t.co/YIkKOqPwt7 #MedanHits
+gotong royong sih sampah danau toba aparat negara perintah 
+Vmap Positif : 6.62621289217e-29
+Vmap Negatif : 2.68951480949e-27
+Vmap Netral : 7.86318472637e-29
+negatif
+
+1440
+Tweet :  ASN dan Warga Gotong Royong Bersihkan Sampah di Danau Toba https://t.co/7JEcTNZOgm
+gotong royong sih sampah danau toba 
+Vmap Positif : 6.74318599269e-18
+Vmap Negatif : 3.34031234555e-17
+Vmap Netral : 1.60742003746e-18
+negatif
+
+1453
+Tweet :  RT @BOOLUUKA: suka ngambang engga jelas,\n\nkalo ngambek, suka nyuruh buat candi perambanan di danau toba\n\ngagal move on bertahun tahun sampe\u2026
+suka tidak suka ramban danau toba tahun 
+Vmap Positif : 4.1580059375e-20
+Vmap Negatif : 6.10756884852e-19
+Vmap Netral : 2.02004366194e-20
+negatif
+
+1456
+Tweet :  suka ngambang engga jelas,\n\nkalo ngambek, suka nyuruh buat candi perambanan di danau toba\n\ngagal move on bertahun tahun sampe bulukan,
+suka tidak suka ramban danau toba tahun bulu 
+Vmap Positif : 6.35683525073e-24
+Vmap Negatif : 1.37868371298e-22
+Vmap Netral : 9.33304223774e-25
+negatif
+
+1468
+Tweet :  @hesty_nr curi2 waktu gitu mbk ee tiba2 udh nyampe di danau toba wkwk
+curi danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1474
+Tweet :  @antaranews Bromo Tengger Semeru (Jawa Timur), Borobudur (Jawa Tengah), Danau Toba (Sumatra Utara) #antaranewsquiz
+meru danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1481
+Tweet :  RT @MongabayID: Penambangan Batu Menggila di Tepian Danau Toba https://t.co/fEYzdlisRm @GreenpeaceID https://t.co/8vfv4p4D8P
+tambang gila tepi danau toba 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 6.80688849776e-10
+Vmap Netral : 5.7984998818e-13
+negatif
+
+1487
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/DXA9i2dlSi https://t.co/rI9Qa25TRu
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1488
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/k58MbGs42I https://t.co/2Wtie7uAwE
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1489
+Tweet :  6 Hal Mengerikan ini Akan Terjadi Jika Danau Toba Meletus Sekali Lagi https://t.co/qf7IzyYcAb https://t.co/MCH9StV60s
+keri jadi danau toba letus 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.81154090125e-10
+Vmap Netral : 8.11326103462e-11
+negatif
+
+1491
+Tweet :  Korupsi di Danau Toba, Kejati Sumut Limpahkan Perkaranya https://t.co/sIYhCtZFpI #Toba #DanauToba #Korupsi
+korupsi danau toba kejat limpah perkara toba korupsi 
+Vmap Positif : 5.17477910906e-24
+Vmap Negatif : 4.49787582867e-15
+Vmap Netral : 2.04726800889e-21
+negatif
+
+1492
+Tweet :  @misterEDBW ngomongin danau Toba, tiba-tiba galau dn homesick wkwkwkw\n\nHahah
+danau toba tiba galau 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 2.92839706697e-10
+negatif
+
+1495
+Tweet :  agenda kesenian dengan latar Budaya dari Kawasan Danau Toba, oleh karena itu izin kan kami mengundang teman-teman media
+seni danau toba undang teman 
+Vmap Positif : 3.92063818473e-14
+Vmap Negatif : 1.47975836908e-13
+Vmap Netral : 1.23701330812e-13
+negatif
+
+1498
+Tweet :  Sidang Pencemaran Danau Toba, PT STP Ajukan Permohonan Tergugat Intervensi https://t.co/TYt3rT9nD9 https://t.co/plRyzxQMOM
+cemar danau toba aju mohon gugat 
+Vmap Positif : 7.49242888077e-19
+Vmap Negatif : 1.45303587031e-15
+Vmap Netral : 4.00068987101e-17
+negatif
+
+1499
+Tweet :  Sidang Pencemaran Danau Toba, PT STP Ajukan Permohonan Tergugat Intervensi https://t.co/IjCDIMdoCB #metro24jam
+cemar danau toba aju mohon gugat 
+Vmap Positif : 7.49242888077e-19
+Vmap Negatif : 1.45303587031e-15
+Vmap Netral : 4.00068987101e-17
+negatif
+
+1500
+Tweet :  Yuniarti Tewas Setelah Terperosok di Saluran Air Tak\u2026 https://t.co/W4biUk21Gc #Kota_Malang\u2026 https://t.co/aPCINxyyvG
+tewas telah perosok salur tak 
+Vmap Positif : 5.16766635691e-21
+Vmap Negatif : 1.01544080695e-15
+Vmap Netral : 1.834130532e-20
+negatif
+
+1501
+Tweet :  Paropo, Tepian Danau Toba: https://t.co/4prF7nK5zU melalui @YouTube
+tepi danau toba lalu 
+Vmap Positif : 6.9241214789e-09
+Vmap Negatif : 1.96659887251e-08
+Vmap Netral : 1.46419853349e-08
+negatif
+
+1507
+Tweet :  Warga Samosir Dikejutkan Penemuan Ikan Raksasa Terdampar Akibat Surutnya Air Danau Toba . https://t.co/GDMehxLdxe https://t.co/i4hLQVSLnP
+kejut temu dampar surut danau toba 
+Vmap Positif : 8.99091465692e-18
+Vmap Negatif : 1.16910932094e-14
+Vmap Netral : 4.50077610489e-17
+negatif
+
+1510
+Tweet :  Tantangan sulit itu nguras air Danau Toba bung \ud83d\ude02 \n#TantanganSulitItu
+tantang sulit danau toba 
+Vmap Positif : 2.56448943663e-10
+Vmap Negatif : 9.83299436253e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+1512
+Tweet :  Ga sempet beli nasi goreng \ud83d\udc37 nya Danau Toba.. \ud83d\ude14 @ Stasiun Kisaran https://t.co/FWu0cEQcGj
+tidak danau toba kisar 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-08
+Vmap Netral : 8.53418573803e-09
+negatif
+
+1532
+Tweet :  W. slm Ustadz TIF barani tdk turun gunung,  calonkan Gubernur Sumut,  utk kesejukan Rakyat Medan/ Sumut,  Raja Saln\u2026 https://t.co/immfRjyTL3
+baran tidak turun calon sejuk rakyat 
+Vmap Positif : 7.90042249949e-25
+Vmap Negatif : 3.53652393263e-21
+Vmap Netral : 5.02898309542e-22
+negatif
+
+1533
+Tweet :  Aktivis Danau Toba Ajak Pemkab Simalungun dan Pemprovsu Buktikan Lintah dengan Budidaya https://t.co/CMwvx8xfzj
+danau toba bukti 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 2.90401100173e-06
+Vmap Netral : 1.81092074622e-06
+negatif
+
+1547
+Tweet :  Game yang tidak ada juaranya \ud83d\ude02.\n#OutboundBVETMedan @ Inna Parapat Hotel https://t.co/6mp6Ffse8Q
+tidak juara 
+Vmap Positif : 1.73543423171e-08
+Vmap Negatif : 1.36204515692e-06
+Vmap Netral : 7.18520330718e-08
+negatif
+
+1557
+Tweet :  yaampun telat datengg\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d (at GBI Rayon IV (Hotel Danau Toba International)) \u2014 https://t.co/AdIpmjMiaC
+telat danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 2.90401100173e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1602
+Tweet :  @AsfahanyHendry  lumayanlah. Tapibitu di tepian danau toba bro
+lumayan tepi danau toba 
+Vmap Positif : 2.56448943663e-10
+Vmap Negatif : 6.55532957502e-09
+Vmap Netral : 1.04585609535e-09
+negatif
+
+1610
+Tweet :  @aNyoEtH bulan terang utama perumahan anyar\n Dalan kembar anyar tekan danau toba sampai velodrom, kembar kabeh saiki \ud83d\ude02\nRantau nandi rek?
+terang utama rumah anyar anyar danau toba 
+Vmap Positif : 2.00454831698e-21
+Vmap Negatif : 3.77010422748e-21
+Vmap Netral : 1.0562319801e-21
+negatif
+
+1632
+Tweet :  @MardiaHsb kk sering joging kesanapun, masa gk tw kdlam kolamnya itu brapa mtr masi ngambang kk kok danau toba kn adek dimakan ikan gurame \ud83d\ude02
+tidak kolam mas danau toba makan 
+Vmap Positif : 4.49545732846e-18
+Vmap Negatif : 1.35282649995e-15
+Vmap Netral : 3.00587547005e-16
+negatif
+
+1635
+Tweet :  Terus dibales \"berisik lu eceng gondok danau toba.\" https://t.co/XOGQykGIYP
+berisik danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1636
+Tweet :  Si tuyul perusuh\ud83d\ude02\ud83d\ude02 (at Danau Toba International Cottage Parapat) \u2014 https://t.co/dsolilsrlw
+rusuh danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1637
+Tweet :  Sarapan nya telat\ud83c\udf74\ud83d\ude02 (at Danau Toba International Cottage Parapat) \u2014 https://t.co/58MjF3iGPg
+sarap telat danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 2.09171219069e-10
+negatif
+
+1639
+Tweet :  Seperti berdiri disamping lukisan.\nHutaku, Tao Silalahi Nabolak. @\u2026 https://t.co/Hbg6MFKXjp
+diri samping lukis 
+Vmap Positif : 8.8438782638e-13
+Vmap Negatif : 1.13873853099e-11
+Vmap Netral : 1.04148097843e-12
+negatif
+
+1681
+Tweet :  https://t.co/qhjWZv90rZ tau gak sih, asal usul danau toba #news #berita
+tau tidak asal danau toba 
+Vmap Positif : 8.82143591564e-13
+Vmap Negatif : 1.51024139148e-09
+Vmap Netral : 7.88595983925e-11
+negatif
+
+1682
+Tweet :  Potensi Ekowisata Satwa Liar Danau Toba https://t.co/Yl9MTRcPh9
+liar danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1684
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/2dGORWeJcE https://t.co/LkQAfomopo
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1685
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/ObwkAomLvo
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1686
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/CQcDWQAHGr
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1687
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/tYxCcZSjA0
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1688
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/x6PKORW8zH
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1689
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/Eb13cxkgeB
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1690
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/Kzia2wM94J
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1691
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/zktdWTChDX https://t.co/PweuJnJ0F7
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1692
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam, Ada Videonya gan! https://t.co/D36UWeezaO
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1693
+Tweet :  Jokowi Ajak Pengusaha Korea Investasi di Bidang Kreatif dan Pariwisata https://t.co/RW5LYVpW0j Sepuluh tempat wisata itu, yakni Danau Toba\u2026
+usaha kreatif puluh danau toba 
+Vmap Positif : 5.390877504e-13
+Vmap Negatif : 2.58957714589e-12
+Vmap Netral : 4.23290491371e-13
+negatif
+
+1694
+Tweet :  Ledakan Gunung Toba Cikal Bakal Danau Toba 75000 Tahun Silam Ada Videonya Gan : https://t.co/GrCR2RXgSn
+ledak toba danau toba video 
+Vmap Positif : 3.47564575076e-11
+Vmap Negatif : 2.27512849246e-10
+Vmap Netral : 7.62464077791e-11
+negatif
+
+1697
+Tweet :  17. Tidak kalah penting, jalur alternatif ini juga strategis dalam mempersingkat jarak tempuh Medan - Danau Toba
+tidak kalah penting dalam singkat danau toba 
+Vmap Positif : 3.09273168905e-20
+Vmap Negatif : 8.55059638793e-18
+Vmap Netral : 7.97917246465e-19
+negatif
+
+1701
+Tweet :  Waterfall Sampuran Efrata. Danau toba
+sampur danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1702
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/uqAtxe01Fv
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1703
+Tweet :  Tribun: Seni dan Budaya Pulau Sumatera Ditampilkan di Canberra: Siapa yang tak mengenal Danau Toba? Atau\u2026 https://t.co/m8pXuomjom #NewsToday
+tampil tak kenal danau toba 
+Vmap Positif : 2.64643077469e-13
+Vmap Negatif : 3.6993959227e-12
+Vmap Netral : 1.70089329866e-12
+negatif
+
+1704
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/wETJk0Yamz https://t.co/WGAMKfGpaR
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1705
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/znZxI3PD7D https://t.co/lZbs26t2AD
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1706
+Tweet :  @info -  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1707
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/Aw2qnO2Ay0 #ROL
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1708
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/kzZ528nz1W https://t.co/R5NRe58RAJ
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1709
+Tweet :  #GanyangPKI Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/yQoXz0Alcy\u2026 https://t.co/xRl4bX3mmG
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1710
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap\u00a0Disidangkan https://t.co/wOPqm9w2FZ
+perkara duga korupsi danau toba siap 
+Vmap Positif : 1.25123562309e-16
+Vmap Negatif : 3.44469710635e-13
+Vmap Netral : 7.1286399628e-15
+negatif
+
+1711
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap\u00a0Disidangkan https://t.co/bKL5G7wduP
+perkara duga korupsi danau toba siap 
+Vmap Positif : 1.25123562309e-16
+Vmap Negatif : 3.44469710635e-13
+Vmap Netral : 7.1286399628e-15
+negatif
+
+1712
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/umcvHGR4vn #ROL
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1713
+Tweet :  #BreakingNews Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/Wi7pWxRseP
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1714
+Tweet :  RT @republikaonline: Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/t40RHkLshi
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1715
+Tweet :  RT @republikaonline: Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/t40RHkLshi
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1716
+Tweet :  RT @republikaonline: Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/t40RHkLshi
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1717
+Tweet :  Perkara Dugaan Korupsi Pesta Danau Toba Tahun 2012 Siap Disidangkan https://t.co/t40RHkLshi
+perkara duga korupsi danau toba siap sidang 
+Vmap Positif : 9.56455911243e-21
+Vmap Negatif : 7.77583996918e-17
+Vmap Netral : 3.29358712013e-19
+negatif
+
+1720
+Tweet :  Camping tour ke danau Toba.\n#qemping https://t.co/YPlulJzUsT
+camping danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 2.90401100173e-06
+Vmap Netral : 2.71638111932e-06
+negatif
+
+1722
+Tweet :  Ngeri! Hal Inilah yang Akan Terjadi Jika Danau Toba Kembali Meletus https://t.co/r8aMRYahhf
+ngeri ini jadi danau toba letus 
+Vmap Positif : 2.06041794221e-16
+Vmap Negatif : 1.26931869131e-14
+Vmap Netral : 4.16500391929e-15
+negatif
+
+1723
+Tweet :  @uttha @Liputan9 anjir tau nih gue, pernah nginep dimari. Danau toba \ud83d\ude02
+liput tau mari danau toba 
+Vmap Positif : 2.45039886546e-14
+Vmap Negatif : 1.33178253217e-12
+Vmap Netral : 6.18506654059e-14
+negatif
+
+1726
+Tweet :  Foto Sendirian Bukan Berarti Jomblo Dekk ! \ud83d\ude02\ud83d\ude02\ud83d\ude02 @ Air Terjun Sipiso-Piso (Tepi Danau Toba) https://t.co/jVZr5iOLrW
+sendiri bukan arti danau toba 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 1.70172212444e-12
+Vmap Netral : 5.72118655004e-13
+negatif
+
+1739
+Tweet :  Danau Toba tidak hanya Samosir saja https://t.co/55CaZ5tbXk
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+1740
+Tweet :  Danau Toba Tidak Hanya Samosir Saja : https://t.co/IbrY4nn0YW
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+1748
+Tweet :  @jjjurasic serem juga kalo ada duyung beneran di danau toba. ngiter-ngiter disitu-situ aja.
+rem danau toba situ 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 1.25502731442e-10
+negatif
+
+1752
+Tweet :  Apsal tasik kat kimi no na wa ni macam kat danau toba\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02
+kim danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1755
+Tweet :  RT @padudadi: Tempat wisata Ini ada di Cirebon loh... ini bukan Danau Toba, melainkan Setu Patok yang ada di Mundu Kabupaten Cire\u2026 https://\u2026
+bukan danau toba lain 
+Vmap Positif : 7.69346830989e-10
+Vmap Negatif : 1.13079435169e-07
+Vmap Netral : 1.54786702111e-08
+negatif
+
+1762
+Tweet :  #visitdanautoba \nBus \u201cWonderful Indonesia\u201d Bergambar Danau Toba dan Candi Borobudur Sedot Perhatian Warga Berlin\nhttps://t.co/XOJqnK7YuW
+gambar danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1768
+Tweet :  @DapurWeWo abis kesurupun penunggu danau toba u yha
+abis tunggu danau toba 
+Vmap Positif : 1.28224471832e-09
+Vmap Negatif : 3.93319774501e-09
+Vmap Netral : 8.36684876278e-10
+negatif
+
+1771
+Tweet :  RT @Sfcmedan: @TonightShow_NET #TNSslank pulang k medan dr konser Slank d danau toba, pas d hutan\" ban motor sy bocor, jam 2 mlm &amp; ga ada t\u2026
+danau toba bocor tidak 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 5.30981695576e-08
+Vmap Netral : 2.13354643451e-08
+negatif
+
+1772
+Tweet :  @TonightShow_NET #TNSslank pulang k medan dr konser Slank d danau toba, pas d hutan\" ban motor sy bocor, jam 2 mlm &amp; ga ada tkang tmbal. Haa
+danau toba bocor tidak 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 5.30981695576e-08
+Vmap Netral : 2.13354643451e-08
+negatif
+
+1775
+Tweet :  Tempat wisata Ini ada di Cirebon loh... ini bukan Danau Toba, melainkan Setu Patok yang ada di Mundu Kabupaten Cire\u2026 https://t.co/50FqOUV98g
+bukan danau toba lain 
+Vmap Positif : 7.69346830989e-10
+Vmap Negatif : 1.13079435169e-07
+Vmap Netral : 1.54786702111e-08
+negatif
+
+1777
+Tweet :  \"Oppa berenangnya di Danau Toba.\" https://t.co/yN8ydjHmSm
+renang danau toba 
+Vmap Positif : 7.54844643225e-06
+Vmap Negatif : 3.77521430225e-05
+Vmap Netral : 8.14914335797e-06
+negatif
+
+1782
+Tweet :  GUA TIAP HARI PINTER TAN. KAGAK KAYAK ELU OTAK MALAH DIBUANG KE DANAU TOBA https://t.co/rOlE0lHOYc
+kagak buang danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-09
+Vmap Netral : 6.69347901022e-10
+negatif
+
+1786
+Tweet :  @FunJunkies kulinernya gak kalah di nusantara, tp muraaaahh... skalian liat Danau Toba euuy...
+kuliner tidak kalah danau toba 
+Vmap Positif : 8.82143591564e-14
+Vmap Negatif : 1.19860427895e-11
+Vmap Netral : 3.94297991962e-13
+negatif
+
+1797
+Tweet :  Tepian danau Toba.....#silalahi https://t.co/ub4n9W09Ef
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+1801
+Tweet :  Danau Toba tidak hanya Samosir saja https://t.co/tjFaYZryX8 via @wordpressdotcom
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+1808
+Tweet :  Korupsi Penyelenggaraan Pesta Danau Toba 2012 mulai Disidangkan https://t.co/YQjXGW0Yat
+korupsi selenggara danau toba sidang 
+Vmap Positif : 9.80159546182e-15
+Vmap Negatif : 9.24848980674e-12
+Vmap Netral : 1.91350496099e-13
+negatif
+
+1811
+Tweet :  @mqr_uddin lalapo danau toba, ga menisan tuku uni emirat arab ae
+danau toba tidak tis 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.65490847788e-08
+Vmap Netral : 4.26709286902e-09
+negatif
+
+1814
+Tweet :  RT @VIVAcoid: Danau Toba Diincar Investor Singapura https://t.co/oQIvAIOQNK
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1825
+Tweet :  Hanya Rp 1,2 Miliar, Pemprov Sumut Tak Serius Kelola Danau\u00a0Toba https://t.co/zUBL31Azzk https://t.co/eW4oPUFiJt
+tak serius kelola danau 
+Vmap Positif : 2.27809975335e-11
+Vmap Negatif : 5.32953623985e-11
+Vmap Netral : 1.71714681564e-11
+negatif
+
+1831
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/ysaxaVNJTG https://t.co/uNSB2mkXTn
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1832
+Tweet :  3 terdakwa kasus korupsi Pesta Dantob 2012 diadili. Korupsi 841 juta rupiah, 3 Panitia pelaksana Pesta danau Toba 2012 diadili di PN Medan.
+dakwa kasus korupsi adil korupsi laksana danau toba adil 
+Vmap Positif : 2.14180618737e-29
+Vmap Negatif : 6.30355033474e-23
+Vmap Netral : 7.21870796015e-25
+negatif
+
+1833
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/eN9yBZpBzn
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1834
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/bwXtdW3y5Z
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1835
+Tweet :  RT @VIVAcoid: Danau Toba Diincar Investor Singapura https://t.co/oQIvAIOQNK
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1836
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/oPscGrN5GK #bisnis
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1837
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/mzgTHXCU40
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1838
+Tweet :  RT @VIVAcoid: Danau Toba Diincar Investor Singapura https://t.co/oQIvAIOQNK
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1839
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/bkmfT2peQR
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1840
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/uvnwo5Q0me
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1842
+Tweet :  Viva: Danau Toba Diincar Investor Singapura https://t.co/moTCTs3n3c #NewsToday #DKK
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1843
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/oQIvAIOQNK
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1844
+Tweet :  3 Panitia Pesta Danau Toba Gelembungkan Anggaran https://t.co/boSDORQrUe https://t.co/OYpqHFwfv8
+danau toba gelembung anggar 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+1845
+Tweet :  3 Panitia Pesta Danau Toba Gelembungkan Anggaran https://t.co/QcJI4OWAOW
+danau toba gelembung anggar 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+1857
+Tweet :  @liaevanty oleh2 danau toba va jgn lupa
+danau toba jangan lupa 
+Vmap Positif : 9.16804973596e-09
+Vmap Negatif : 3.90042109714e-08
+Vmap Netral : 1.38053004586e-08
+negatif
+
+1867
+Tweet :  Paropo ,tao silalahi sumatra Utara tepian danau toba,indonesia https://t.co/mkqj33UbiL
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+1871
+Tweet :  RT @AreaBatak: Kurang keren apalagilah cobak Danau Toba kita ini, ayok rame ramekan kesana woiii https://t.co/RlxY7xeg7E
+kurang keren apalagi danau toba ramai 
+Vmap Positif : 9.740157545e-18
+Vmap Negatif : 5.84554660471e-16
+Vmap Netral : 9.37661688519e-17
+negatif
+
+1880
+Tweet :  Hei danau toba!!! Apa kabarmu di sana? Lama tak berjumpa ~\n.\n.\n#danautoba #sumaterautara\u2026 https://t.co/WrcRqJl0KN
+danau toba kabar lama tak jumpa 
+Vmap Positif : 2.24772866423e-18
+Vmap Negatif : 4.67643728377e-14
+Vmap Netral : 3.88995649066e-16
+negatif
+
+1891
+Tweet :  @RPF_BJH93 cemburu menguras danau toba
+cemburu uras danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+1901
+Tweet :  @luckypaytren Danau Sipin,Singkarak,Tage,Tambara,Tambiling,Tang,Teloko,Tempe,Toba,Tondano, Tonjidat,Lindu #luckypaytren #pulsa5000
+danau toko toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1976
+Tweet :  Danau Toba Diincar Investor Singapura https://t.co/Ddf3cObJFj
+danau toba incar 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+1981
+Tweet :  setelah sekian lama. akhirnyaaa\n.\n.\n.\nNostalgia\ud83d\ude02\ud83d\ude0b\ud83d\ude0d (with \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67 at Inna Parapat Hotel) \u2014 https://t.co/JztxU4G4Wo
+telah lama 
+Vmap Positif : 7.7130410298e-09
+Vmap Negatif : 7.0624563692e-07
+Vmap Netral : 1.39477475963e-07
+negatif
+
+1982
+Tweet :  setelah sekian lama. akhirnya\n.\n.\n.\nNostalgia\ud83d\ude02\ud83d\ude0b\ud83d\ude0d (with \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67 at Inna Parapat Hotel) \u2014 https://t.co/brX24C2tVD
+telah lama akhir 
+Vmap Positif : 5.89591884253e-12
+Vmap Negatif : 7.97116971694e-10
+Vmap Netral : 1.67548252404e-10
+negatif
+
+2014
+Tweet :  RT @SantoBanton: Danau Toba Tidak Hanya Samosir Saja : https://t.co/IbrY4nn0YW
+danau toba tidak 
+Vmap Positif : 2.51614881075e-06
+Vmap Negatif : 0.00011761244557
+Vmap Netral : 9.2356958057e-05
+negatif
+
+2018
+Tweet :  Sebenarnya ini danau toba tp bukan dr samosir \ud83d\udc6f\ud83d\udc6f (at Pantai Paris Tio Beach) [pic] \u2014 https://t.co/NBhqXD5Zur
+benar danau toba bukan 
+Vmap Positif : 1.02579577465e-09
+Vmap Negatif : 2.26158870338e-08
+Vmap Netral : 1.393080319e-08
+negatif
+
+2049
+Tweet :  Armada baru buat ngecamp dan private tour ke danau Toba dan pulau Samosir.\nLiburan seru sekarang gak ribet..... https://t.co/osQMP1HtfG
+baru danau toba seru tidak 
+Vmap Positif : 2.84638332211e-11
+Vmap Negatif : 1.01881363711e-10
+Vmap Netral : 1.97148995981e-11
+negatif
+
+2050
+Tweet :  Armada baru buat ngecamp dan private tour ke danau Toba dan pulau Samosir.\nLiburan seru sekarang gak ribet..... https://t.co/UyUrJ6iYI2
+baru danau toba seru tidak 
+Vmap Positif : 2.84638332211e-11
+Vmap Negatif : 1.01881363711e-10
+Vmap Netral : 1.97148995981e-11
+negatif
+
+2051
+Tweet :  Armada baru buat ngecamp dan private tour ke danau Toba dan pulau Samosir.\nLiburan seru sekarang gak ribet..... https://t.co/AQJdCAFLBY
+baru danau toba seru tidak 
+Vmap Positif : 2.84638332211e-11
+Vmap Negatif : 1.01881363711e-10
+Vmap Netral : 1.97148995981e-11
+negatif
+
+2056
+Tweet :  RT @irenebaej: mau ceritain apa?! Si kancil?! Legenda danau toba? Apa ratapan mama tiri pinay? :( https://t.co/VsmD25uQjI
+mau danau toba ratap :( 
+Vmap Positif : 4.41071795782e-14
+Vmap Negatif : 5.69706972095e-12
+Vmap Netral : 1.45349063704e-12
+negatif
+
+2059
+Tweet :  eh ini menkopolkamnya?lucu awak semua Spd?gila semua kah..(bermerek pun gk,sok radja adat modal istri?) https://t.co/V1ID2Q0Ipt
+lucu gila merek tidak sok adat 
+Vmap Positif : 8.29544362446e-24
+Vmap Negatif : 8.13400504504e-20
+Vmap Netral : 7.33393368081e-23
+negatif
+
+2067
+Tweet :  mau ceritain apa?! Si kancil?! Legenda danau toba? Apa ratapan mama tiri pinay? :( https://t.co/VsmD25uQjI
+mau danau toba ratap :( 
+Vmap Positif : 4.41071795782e-14
+Vmap Negatif : 5.69706972095e-12
+Vmap Netral : 1.45349063704e-12
+negatif
+
+2072
+Tweet :  @gfxjeyerin @ggyownt @89LEEJS nguras danau toba,gak selese selese:(
+danau toba tidak :( 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 2.92039932567e-07
+Vmap Netral : 3.41367429521e-08
+negatif
+
+2085
+Tweet :  Ada yg khawatir klo danau Toba sewaktu-waktu meletus lagi...Yah saat itu terjadj mungkin yg disebut kiamat, dan musnah nya sebuah peradaban
+khawatir danau toba waktu letus sebut buah adab 
+Vmap Positif : 2.62679142592e-25
+Vmap Negatif : 2.55311798701e-23
+Vmap Netral : 1.59363221216e-24
+negatif
+
+2086
+Tweet :  Bayangin kawahnya sebesarnya danau Toba, ga bisa bayangkan betapa dahsyatnya letusan gunung Toba saat 75000 tahun lalu...
+kawah besar danau toba tidak bisa bayang dahsyat letus toba 
+Vmap Positif : 8.74554470626e-27
+Vmap Negatif : 1.29614492326e-25
+Vmap Netral : 7.37528019287e-26
+negatif
+
+2087
+Tweet :  Ngomongin soal suku mente, manusia kerdil... Jadi keingat ttg dahsyatnya letusan gunung Toba...Btw,danau Toba itu bekas kawah lho
+kerdil jadi ingat dahsyat letus toba danau toba 
+Vmap Positif : 1.19537397419e-20
+Vmap Negatif : 3.97775782376e-19
+Vmap Netral : 3.50723893241e-20
+negatif
+
+2089
+Tweet :  Air Danau Toba Surut, Warga Temukan Ikan Raksasa Dan Ternyata: https://t.co/l5hdcTJRQx via @YouTube
+danau toba surut temu nyata 
+Vmap Positif : 2.94047863855e-13
+Vmap Negatif : 5.17915429177e-11
+Vmap Netral : 5.84488788085e-12
+negatif
+
+2093
+Tweet :  @eunhgfr ikan mas jelmaan?? yg ada di legenda danau toba? \ud83d\ude31
+jelma danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+2108
+Tweet :  https://t.co/qhjWZv90rZ tau gak sih, asal usul danau toba #news #berita
+tau tidak asal danau toba 
+Vmap Positif : 8.82143591564e-13
+Vmap Negatif : 1.51024139148e-09
+Vmap Netral : 7.88595983925e-11
+negatif
+
+2111
+Tweet :  @antoniusgultom8 @bobotohid gw cuma bilang medan kota melayu deli..  kampung loe di bonaposangit sana, di selingkaran danau toba
+bilang lingkar danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2118
+Tweet :  RT @Skyjimin95: @HW98XIAO Guling gulingan di danau toba gih
+guling danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+2119
+Tweet :  @HW98XIAO Guling gulingan di danau toba gih
+guling danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+2124
+Tweet :  Kabur Sebentar Ke Danau Toba https://t.co/5VIKxgw6mP #WisataSumut #JalankeManaGitu
+kabur danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 4.3560165026e-06
+Vmap Netral : 2.71638111932e-06
+negatif
+
+2132
+Tweet :  Ga pernah bosan liat Danau Toba dari belahan manapun. Itulah bedanya kalau tangan Tuhan yang\u2026 https://t.co/rxMqzJPRYh
+tidak bosan danau toba bahan mana itu beda tangan 
+Vmap Positif : 6.02382990197e-30
+Vmap Negatif : 1.40046878294e-25
+Vmap Netral : 4.59954031306e-27
+negatif
+
+2134
+Tweet :  gara2 minum kopi bbrp jam yg lalu, gini hari mata seger. alhasil baca natgeo ttg danau toba.\n\nelaaah macam besok mau ulangan geografi aja \ud83d\ude05
+gin baca danau toba mau ulang 
+Vmap Positif : 3.37159299635e-17
+Vmap Negatif : 3.50732796283e-16
+Vmap Netral : 3.39969337923e-16
+negatif
+
+2136
+Tweet :  @antoniusgultom8 @bobotohid org batak kampung loe tu di tapanuli.. selingkaran danau toba yg gak maju2 haha
+lingkar danau toba tidak maju 
+Vmap Positif : 5.58690941324e-13
+Vmap Negatif : 5.99302139477e-12
+Vmap Netral : 5.91446987944e-13
+negatif
+
+2143
+Tweet :  RT @shhonmeanho: Tahukah kamu? Konon katanya kalau tidak bisa berenang dan tenggelam di Danau Toba akan meninggal? #Meanhobikinpintar https\u2026
+tahu kata tidak bisa renang tenggelam danau toba tinggal 
+Vmap Positif : 1.12404665971e-26
+Vmap Negatif : 8.59327645213e-22
+Vmap Netral : 6.78064232951e-23
+negatif
+
+2162
+Tweet :  @jekajbts wah danau toba XD susah ya nyari dijerami aja belum tentu dapet /?
+danau toba susah ya jerami 
+Vmap Positif : 1.91131111506e-13
+Vmap Negatif : 1.18380669526e-12
+Vmap Netral : 2.53201161505e-13
+negatif
+
+2163
+Tweet :  @oemjiarin abis susah nyari nick aja berasa nyari jarum di danau toba wkwkwk
+abis susah asa danau toba 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 8.87855021447e-13
+Vmap Netral : 7.73133317573e-14
+negatif
+
+2195
+Tweet :  RT @fitmanalu: PANTUN: [HUT 2 RTC] Sungguh Elok Danau Toba- Fitri Manalu https://t.co/ExWe0FnSsp lewat @kompasiana @RumpiesClub
+sungguh elok danau 
+Vmap Positif : 3.54786916349e-10
+Vmap Negatif : 2.36098455425e-09
+Vmap Netral : 3.67252230017e-10
+negatif
+
+2196
+Tweet :  RT @kompasiana: Pantun | [HUT 2 RTC] Sungguh Elok Danau Toba https://t.co/LCgHDy1YrZ
+sungguh elok danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2197
+Tweet :  RT @kompasiana: Pantun | [HUT 2 RTC] Sungguh Elok Danau Toba https://t.co/LCgHDy1YrZ
+sungguh elok danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2200
+Tweet :  Pantun | [HUT 2 RTC] Sungguh Elok Danau Toba https://t.co/LCgHDy1YrZ
+sungguh elok danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2201
+Tweet :  @somiegoyang ntar lu imejin mau lairan pas lg berenang di danau toba
+mau renang danau toba 
+Vmap Positif : 5.19309110918e-09
+Vmap Negatif : 5.96534991327e-08
+Vmap Netral : 1.76958851333e-08
+negatif
+
+2202
+Tweet :  RT @fitmanalu: PANTUN: [HUT 2 RTC] Sungguh Elok Danau Toba- Fitri Manalu https://t.co/ExWe0FnSsp lewat @kompasiana @RumpiesClub
+sungguh elok danau 
+Vmap Positif : 3.54786916349e-10
+Vmap Negatif : 2.36098455425e-09
+Vmap Netral : 3.67252230017e-10
+negatif
+
+2203
+Tweet :  PANTUN: [HUT 2 RTC] Sungguh Elok Danau Toba- Fitri Manalu https://t.co/ExWe0FnSsp lewat @kompasiana @RumpiesClub
+sungguh elok danau 
+Vmap Positif : 3.54786916349e-10
+Vmap Negatif : 2.36098455425e-09
+Vmap Netral : 3.67252230017e-10
+negatif
+
+2208
+Tweet :  @yebeugi mendadak awannya cair jadi danau toba ^ ____ ^
+dadak awan jadi danau toba 
+Vmap Positif : 2.695438752e-13
+Vmap Negatif : 5.90423589262e-11
+Vmap Netral : 5.73664921639e-12
+negatif
+
+2223
+Tweet :  Wah, ke Parapat/Danau Toba bisa 1 - 2 jam, bukan 3.5 - 4 jam selama ini. https://t.co/6CDgImH7kO
+danau toba bisa bukan lama 
+Vmap Positif : 6.09659237725e-12
+Vmap Negatif : 7.14723292265e-11
+Vmap Netral : 7.07996835568e-11
+negatif
+
+2227
+Tweet :  RT @AngrySipelebegu: Pribumi itu kek gini. Trayeknya Medan-Sidikalang-Danau Toba lewat kampungKu Tele-Parbuluan :p https://t.co/vEy9iEiOT5
+gin trayek toba kampung 
+Vmap Positif : 2.66357440448e-13
+Vmap Negatif : 1.58086726086e-12
+Vmap Netral : 4.67131754746e-13
+negatif
+
+2228
+Tweet :  RT @AngrySipelebegu: Pribumi itu kek gini. Trayeknya Medan-Sidikalang-Danau Toba lewat kampungKu Tele-Parbuluan :p https://t.co/vEy9iEiOT5
+gin trayek toba kampung 
+Vmap Positif : 2.66357440448e-13
+Vmap Negatif : 1.58086726086e-12
+Vmap Netral : 4.67131754746e-13
+negatif
+
+2229
+Tweet :  RT @AngrySipelebegu: Pribumi itu kek gini. Trayeknya Medan-Sidikalang-Danau Toba lewat kampungKu Tele-Parbuluan :p https://t.co/vEy9iEiOT5
+gin trayek toba kampung 
+Vmap Positif : 2.66357440448e-13
+Vmap Negatif : 1.58086726086e-12
+Vmap Netral : 4.67131754746e-13
+negatif
+
+2230
+Tweet :  Pribumi itu kek gini. Trayeknya Medan-Sidikalang-Danau Toba lewat kampungKu Tele-Parbuluan :p https://t.co/vEy9iEiOT5
+gin trayek toba kampung 
+Vmap Positif : 2.66357440448e-13
+Vmap Negatif : 1.58086726086e-12
+Vmap Netral : 4.67131754746e-13
+negatif
+
+2252
+Tweet :  Kalo lagi ujan gini dikantor berasa kaya lagi di pulau samosir ditengah danau toba \ud83d\ude02 banjir ndak isa keluar, ndak isa cari makan \ud83d\ude14
+gin kantor asa kaya tengah danau toba banjir keluar cari 
+Vmap Positif : 1.93396159519e-31
+Vmap Negatif : 2.6019169392e-30
+Vmap Netral : 1.38433462273e-30
+negatif
+
+2287
+Tweet :  RT @pcploles: ENGKAU SELAMA NI MENGHILANG KEMANA KE DANAU TOBA KE TAU TAK SEULGI DAH BERANAK https://t.co/09XdPofGFC
+lama hilang mana danau toba tau tak anak 
+Vmap Positif : 1.57607485555e-24
+Vmap Negatif : 6.32662637181e-19
+Vmap Netral : 6.3772128608e-22
+negatif
+
+2288
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/R9EmjU7gIm #BANTIRANPOST
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2289
+Tweet :  ENGKAU SELAMA NI MENGHILANG KEMANA KE DANAU TOBA KE TAU TAK SEULGI DAH BERANAK https://t.co/09XdPofGFC
+lama hilang mana danau toba tau tak anak 
+Vmap Positif : 1.57607485555e-24
+Vmap Negatif : 6.32662637181e-19
+Vmap Netral : 6.3772128608e-22
+negatif
+
+2290
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2291
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/OdM0hTHPVZ https://t.co/jVd0Ot1QEO
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2292
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/5CkdsAukXm
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2293
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2294
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2295
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/FQDVYnkxo2
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2296
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2297
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2298
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2299
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2300
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/1wrZivBpb0
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2301
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2302
+Tweet :  #BeritaIndonesia Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/YGkUxnSC4k Via @Info_Pariwara https://t.co/fzhMu2llbF
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2303
+Tweet :  Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/TVdPAIo7xe https://t.co/U8juOtDoyg
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2304
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2305
+Tweet :  /jitak keras/lempar ke danau toba https://t.co/eTJPZAkvM2
+keras lempar danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 1.25502731442e-10
+negatif
+
+2306
+Tweet :  https://t.co/7GbYHK7tQy Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/WtEcIbNHCX #kartukredit https://t.co/rb3deRzKsC
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2307
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/WcHV1dz2zk
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2308
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/tl1q5eiTuf
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2309
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/9NP4uOvU4H
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2310
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2311
+Tweet :  Ala ala \u26fa\ufe0f\ud83d\uddfb @ Paropo tepian Danau Toba https://t.co/zuj3R3Txuj
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+2312
+Tweet :  RT @Metro_TV: Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2313
+Tweet :  Maguran Tao, Ritual Penghormatan Terhadap Danau Toba https://t.co/Vm4Pp2JpTw https://t.co/SdeEETVK8x
+hormat hadap danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 6.55532957502e-10
+Vmap Netral : 1.67336975256e-10
+negatif
+
+2315
+Tweet :  @hugebadboy kamu tau legenda danau toba gak? ikannya bisa lari
+tau danau toba tidak ikan bisa 
+Vmap Positif : 1.74760903644e-15
+Vmap Negatif : 2.26463156091e-12
+Vmap Netral : 1.31165475057e-14
+negatif
+
+2336
+Tweet :  Dalam episode reunian \u2018Tim Medan-Danau Toba\u2019 banget ni yah? \ud83d\ude02\ud83d\ude48\ud83d\ude05 #ColdplaySingapore @Sir_AmirSyarif @djaycoholyc\u2026 https://t.co/keTY38P7jP
+dalam reuni toba 
+Vmap Positif : 6.96897607187e-09
+Vmap Negatif : 3.26817958394e-08
+Vmap Netral : 1.2678371052e-08
+negatif
+
+2347
+Tweet :  \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f (with Deasy, Inggrid, and Demitrio at GBI Rayon IV (Hotel Danau Toba International)) \u2014 https://t.co/KyKbTgo1hb
+trio danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+2479
+Tweet :  Destinasi Wisata Unggulan: Kawasan hunian untuk wisatawan yang berada di tepi Danau Toba, Pulau Samosir, Sumatera\u2026 https://t.co/hyiojSFy7M
+unggul huni ada danau toba 
+Vmap Positif : 1.76428718313e-13
+Vmap Negatif : 1.10981877681e-12
+Vmap Netral : 4.09760658314e-13
+negatif
+
+2488
+Tweet :  RT @wak_apul: Mereka gak tqhu aja bahwa pribumi berasal dari pulau samosir (danau toba) https://t.co/EpL0ZB7vm2
+tidak asal danau toba 
+Vmap Positif : 2.30804049297e-09
+Vmap Negatif : 3.71687186903e-07
+Vmap Netral : 1.06677321725e-07
+negatif
+
+2490
+Tweet :  Mereka gak tqhu aja bahwa pribumi berasal dari pulau samosir (danau toba) https://t.co/EpL0ZB7vm2
+tidak asal danau toba 
+Vmap Positif : 2.30804049297e-09
+Vmap Negatif : 3.71687186903e-07
+Vmap Netral : 1.06677321725e-07
+negatif
+
+2541
+Tweet :  RT @SRobesk: Sidang Korupsi Pesta Danau Toba 2012: Saksi Tak Tahu Penrimaan Dana Rp 3 Miliar https://t.co/QFIZuwnUdD
+korupsi danau toba saksi tak tahu nrima 
+Vmap Positif : 8.59092135847e-23
+Vmap Negatif : 2.35631514218e-17
+Vmap Netral : 5.75118313163e-19
+negatif
+
+2542
+Tweet :  Sidang Korupsi Pesta Danau Toba 2012: Saksi Tak Tahu Penrimaan Dana Rp 3 Miliar https://t.co/QFIZuwnUdD
+korupsi danau toba saksi tak tahu nrima 
+Vmap Positif : 8.59092135847e-23
+Vmap Negatif : 2.35631514218e-17
+Vmap Netral : 5.75118313163e-19
+negatif
+
+2578
+Tweet :  @minongkrong taikucing lu sini gw tenggelamkan kai ke danau toba
+tenggelam danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 8.56683245511e-05
+Vmap Netral : 7.60586713411e-05
+negatif
+
+2580
+Tweet :  Budi Daya Ikan Salahi Aturan, Para Perusak Danau Toba Disidangkan di Balige, Pengacara\u2026 https://t.co/sZv5RX7Aqc https://t.co/dmn8ZUbkqg
+daya salah atur usak danau toba sidang acara 
+Vmap Positif : 4.37798570987e-25
+Vmap Negatif : 1.0212471948e-23
+Vmap Netral : 2.55438656016e-25
+negatif
+
+2582
+Tweet :  @frappucn @sidewclks Setau gue tenggelem jd danau toba
+tau tenggelam jadi danau toba 
+Vmap Positif : 1.347719376e-12
+Vmap Negatif : 2.98585643713e-09
+Vmap Netral : 5.50718324774e-10
+negatif
+
+2590
+Tweet :  RT @ayuretnoayu: @DeltaFmSurabaya @harsyasubandrio @O_Sarah_ Parapat sumatera utara, ntar kalo ada yg korupsi tinggal di tenggelamkan aja d\u2026
+korupsi tinggal tenggelam 
+Vmap Positif : 5.89591884253e-13
+Vmap Negatif : 1.11975955547e-07
+Vmap Netral : 1.4434926361e-09
+negatif
+
+2591
+Tweet :  @DeltaFmSurabaya @harsyasubandrio @O_Sarah_ Parapat sumatera utara, ntar kalo ada yg korupsi tinggal di tenggelamkan aja di danau toba \ud83d\ude02\ud83d\ude02\ud83d\ude02
+korupsi tinggal tenggelam danau toba 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 2.18264359439e-09
+Vmap Netral : 8.57250222525e-11
+negatif
+
+2694
+Tweet :  Investor Singapura Jajaki Investasi di Danau Toba https://t.co/zzq9KO5Pqw https://t.co/VixHR0KMu1
+jajak danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+2729
+Tweet :  Persepuluhan Time \ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc (with Debora Margareth at GBI Rayon IV (Hotel Danau Toba International)) \u2014 https://t.co/n8O1EeXGSa
+puluh danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.01640385061e-05
+Vmap Netral : 2.71638111932e-06
+negatif
+
+2733
+Tweet :  Pertemuan dg Kemenpar dan BPO Danau Toba, tgl 4/4/2017 pk10, Rg Deputi Cana, Lt.8, BKPM perihal tindak lanjut Perpr\u2026 https://t.co/i3D9hTE04T
+temu danau toba tindak 
+Vmap Positif : 1.34635695423e-09
+Vmap Negatif : 4.58873070251e-08
+Vmap Netral : 4.5180983319e-09
+negatif
+
+2735
+Tweet :  Senja itu spesial\ud83c\udf18 @ Paropo tepian Danau Toba https://t.co/O0AeacpsBJ
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+2749
+Tweet :  Tampak dekat (eceknya \ud83d\ude0a) @ Paropo tepian Danau Toba https://t.co/8EgYqlOzl3
+tampak dekat ecek tepi danau toba 
+Vmap Positif : 2.39757724185e-17
+Vmap Negatif : 6.6806246911e-16
+Vmap Netral : 6.42968014984e-16
+negatif
+
+2754
+Tweet :  Investor Singapura Jajaki Investasi di Danau Toba - BeritaSatu https://t.co/a2S0aC3U4B #Dairi
+jajak danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+2788
+Tweet :  Sudah week end aja... Liburrrr.... Manata?. .\n.\nLoc. Tepian Danau Toba\nSipolha Nauli\nKab. Simalungu \nSumatera Utar\u2026\u2026 https://t.co/blgX9FkRQY
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+2793
+Tweet :  Soal listrik itu soal sepele tergantung kemauan saja, ada ditepian danau toba nama kampunya onanitu, rumah sebiji doang listrik ada lho
+gantung mau tepi danau toba biji 
+Vmap Positif : 1.34863719854e-17
+Vmap Negatif : 2.33821864188e-15
+Vmap Netral : 2.09857616002e-16
+negatif
+
+2825
+Tweet :  @MTMA_TransTV gk pengen explore tempat yg view nya bikin meleklek\nParopo tepian danau toba \nTao silalahi SUMUT\u2026 https://t.co/vnTQFTjmOm
+tidak ken tepi danau toba 
+Vmap Positif : 2.35238291084e-13
+Vmap Negatif : 3.59581283686e-10
+Vmap Netral : 9.36457730911e-11
+negatif
+
+2829
+Tweet :  Ayah dan Anak Tewas Hanyut di Tao Silalahi https://t.co/yVCe2YuwUz
+tewas 
+Vmap Positif : 2.5225500688e-05
+Vmap Negatif : 0.0026072234763
+Vmap Netral : 1.52467196452e-05
+negatif
+
+2830
+Tweet :  Bapak dan Anak Warga Berastagi Tewas Tenggelam di Tao Silalahi | METRO KAMPUNG NEWS https://t.co/f1PnqGeAdq
+tewas tenggelam 
+Vmap Positif : 1.92826025745e-09
+Vmap Negatif : 3.47237438153e-05
+Vmap Netral : 5.91722625298e-08
+negatif
+
+2831
+Tweet :  RT @Humas_polDairi: LAGI ASIK MANCING AKHIRNYA TENGGELAM DI TAO SILALAHI - Tribrata Polres Dairi https://t.co/JvsvrdtXx5
+akhir tenggelam 
+Vmap Positif : 1.92826025745e-08
+Vmap Negatif : 4.96053483075e-06
+Vmap Netral : 1.53847882577e-06
+negatif
+
+2832
+Tweet :  LAGI ASIK MANCING AKHIRNYA TENGGELAM DI TAO SILALAHI - Tribrata Polres Dairi https://t.co/JvsvrdtXx5
+akhir tenggelam 
+Vmap Positif : 1.92826025745e-08
+Vmap Negatif : 4.96053483075e-06
+Vmap Netral : 1.53847882577e-06
+negatif
+
+2834
+Tweet :  SIAN ANCOL PANTAI BULBUL BALIGE DO HAMU NATTOARI ????  Dibereng hamu do namasa disi kan! https://t.co/5tx18Mryb2
+reng 
+Vmap Positif : 2.5225500688e-05
+Vmap Negatif : 0.000148984198646
+Vmap Netral : 3.04934392903e-05
+negatif
+
+2853
+Tweet :  RT @mimiyusmi: Halo mataharinya separoh \nKala itu mandi di tepian danau toba dr sisi silalahi \n#taosilalahi #paropo #danautoba #exploresumu\u2026
+matahari tepi danau toba 
+Vmap Positif : 2.56448943663e-10
+Vmap Negatif : 6.55532957502e-09
+Vmap Netral : 1.04585609535e-09
+negatif
+
+2861
+Tweet :  Tim Gabungan TP4 D Tertibkan Penunggak Pajak Usaha dan Reklamasi Danau Toba di Samosir https://t.co/SiFHv6Aobw
+gabung tertib tunggak usaha danau toba 
+Vmap Positif : 4.12083588442e-18
+Vmap Negatif : 8.35078086387e-17
+Vmap Netral : 1.30379625261e-17
+negatif
+
+2885
+Tweet :  JANGAN PENISTA AGAMA Bupati Samosir Optimistis Target 1 juta Wisatawan ke Danau Toba Tercapai\u2026 https://t.co/HT8oJZAmpw
+jangan nista optimistis target danau toba capai 
+Vmap Positif : 1.48909303547e-20
+Vmap Negatif : 1.28183543734e-19
+Vmap Netral : 2.37652195522e-20
+negatif
+
+2895
+Tweet :  #kom10 Bupati Toba Samosir: Danau Toba langsung berbatasan dgn Tapanuli Utara, Asahan, Kab Simalungun, dan Kab Labuanbatu.
+toba danau toba langsung batas asah 
+Vmap Positif : 1.23984713119e-13
+Vmap Negatif : 1.54071906938e-13
+Vmap Netral : 9.24721957217e-14
+negatif
+
+2897
+Tweet :  @WikiDPR #kom10 Bupati Toba Samosir: Danau Toba langsung berbatasan dgn Tapanuli Utara, Asahan, Kab Simalungun, dan Kab Labuanbatu.
+toba danau toba langsung batas asah 
+Vmap Positif : 1.23984713119e-13
+Vmap Negatif : 1.54071906938e-13
+Vmap Netral : 9.24721957217e-14
+negatif
+
+2906
+Tweet :  @LXRJINHEE wahhhhh ak ternyuh smpai danau toba nih :(
+danau toba :( 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.59720605095e-05
+Vmap Netral : 7.24368298486e-06
+negatif
+
+2911
+Tweet :  Gagal ke Danau Toba long wiken ini. Emak kami girang.\n\n\"Daripada ga tidur selama kalian dijalan\", kata beliyo \ud83d\ude02\ud83d\ude02\ud83d\ude02
+gagal danau toba girang tidak lama jalan 
+Vmap Positif : 1.64945690083e-20
+Vmap Negatif : 1.28258945819e-16
+Vmap Netral : 8.70765071023e-18
+negatif
+
+2915
+Tweet :  Dengan mendonasikan Rp10.000 (sepuluh ribu rupiah), Anda sudah berkontribusi memulihkan Danau Toba dari kerusakan l\u2026 https://t.co/DDkd85VXHI
+donasi puluh kontribusi pulih danau toba rusa 
+Vmap Positif : 1.43182022641e-22
+Vmap Negatif : 2.63907295924e-20
+Vmap Netral : 2.97065244402e-22
+negatif
+
+2977
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba - Tribun Medan https://t.co/2wIokNfm9y
+cicip plus danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2979
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba https://t.co/1pgWm0i3Cp via @tribunmedan
+cicip plus danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2986
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba: Peserta Oppo Selfie Tour kali\u2026... https://t.co/sM9DCnqefM
+cicip plus danau toba serta 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 7.39879184539e-14
+Vmap Netral : 1.93283329393e-14
+negatif
+
+2987
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba: Peserta Oppo Selfie Tour kali\u2026 https://t.co/6W2wBhnOcp #MedanHits
+cicip plus danau toba serta 
+Vmap Positif : 5.88095727709e-14
+Vmap Negatif : 7.39879184539e-14
+Vmap Netral : 1.93283329393e-14
+negatif
+
+2990
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba https://t.co/1GPe0T4nf0
+cicip plus danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2991
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba https://t.co/xJqJAVioUf https://t.co/hk50Gahd0q
+cicip plus danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2992
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba https://t.co/amhVOI4nxs
+cicip plus danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+2993
+Tweet :  Jurnalis dan Bolgger Cicipi Kualitas Kamera Oppo F3 Plus di Danau Toba https://t.co/NubAJ86bJ9
+cicip plus danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+3008
+Tweet :  RT @dea_restilla: Gagal ke Danau Toba long wiken ini. Emak kami girang.\n\n\"Daripada ga tidur selama kalian dijalan\", kata beliyo \ud83d\ude02\ud83d\ude02\ud83d\ude02
+gagal danau toba girang tidak lama jalan 
+Vmap Positif : 1.64945690083e-20
+Vmap Negatif : 1.28258945819e-16
+Vmap Netral : 8.70765071023e-18
+negatif
+
+3013
+Tweet :  Jangan ngaku orang batak\nKalau gak pernah pigi ke danau toba\n\n#halakbatak\n#keluargabatak \n#halakhita https://t.co/R9EbiPgyim
+jangan tidak danau toba 
+Vmap Positif : 2.50037720072e-09
+Vmap Negatif : 4.5133444124e-07
+Vmap Netral : 1.28012786071e-07
+negatif
+
+3039
+Tweet :  Bajunya \"ngapain aja sih kamu di danau toba?\" \ud83d\udc4f\ud83d\udc4f\ud83d\udc4d https://t.co/fVJOS7acSJ
+baju danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3042
+Tweet :  Kebun Benih Macadamia integrifolia Telah Berproduksi di Danau Toba https://t.co/9eCBQnJauc\n#klhk #menlhk #menterisitinurbaya #kementerianlhk
+produksi danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3043
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/H8LZN2VgAy
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3044
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/dwIFLEorF4
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3045
+Tweet :  #PARIWISATA -  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers)\u2026\u2026 https://t.co/tachgknF6e
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3046
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/bRHICOLEG2 #infoWisata
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3047
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/T1SIdz7suG #infoWisata
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3048
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/BbO7IfNNhD
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3049
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/XAdJiTG972
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3055
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog): Metro24Jam\u2026 https://t.co/vCTJMmAgbH
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3056
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/EyC9GzQcKV
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3057
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog): Metro24Jam\u2026 https://t.co/wwewTfl62u
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3058
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog): Metro24Jam\u2026 https://t.co/WYpHDYFSJv
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3059
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog): Metro24Jam\u2026 https://t.co/IEnxd7UJZu
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3060
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/BC9o3rYGsu
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3061
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/8nUqbbrZCh
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3062
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/zZvi6yXkub
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3063
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/yeKnj7ppNJ
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3064
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog)... https://t.co/rccGWnvXTb
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3065
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai - Metro24Jam (Siaran Pers) (Blog) https://t.co/JDRWpIpn4h #Wisata
+kutip ilegal rajalela danau toba sulit capai siar 
+Vmap Positif : 6.5669785648e-26
+Vmap Negatif : 3.57436518181e-23
+Vmap Netral : 4.57502070477e-27
+negatif
+
+3066
+Tweet :  Kutipan Ilegal Merajalela, Destinasi Wisata Danau Toba Sulit Tercapai https://t.co/jdSFpNPsSz https://t.co/Hzaf1wTvkA
+kutip ilegal rajalela danau toba sulit capai 
+Vmap Positif : 2.86364045282e-22
+Vmap Negatif : 1.58344377554e-19
+Vmap Netral : 3.3007249378e-23
+negatif
+
+3073
+Tweet :  @Metro_TV Kalo bertamasya kemari..Danau Toba. https://t.co/IQHnDrw1or
+tamasya danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3075
+Tweet :  Capek 1 mnggu Travelling...\n   Selfie dulu mau pulang.. \ud83d\ude01\ud83d\ude01 \u2014 traveling to Danau Toba
+capek mau danau toba 
+Vmap Positif : 5.77010123242e-10
+Vmap Negatif : 4.58873070251e-09
+Vmap Netral : 1.96620945925e-09
+negatif
+
+3094
+Tweet :  RT @IM3OoredooPKU: Daun ini hanya tersedia di hutan liar di kawasan pegunungan Danau Toba &amp; uniknya utk keperluan memasak yg lebih lama, da\u2026
+sedia liar gunung danau toba unik perlu masak lama 
+Vmap Positif : 1.20476598039e-29
+Vmap Negatif : 5.37902961898e-27
+Vmap Netral : 9.33541810323e-28
+negatif
+
+3097
+Tweet :  @kisbet_ selfienya sambil berenang gaya kupu\u00b2 di Danau Toba.
+renang danau toba 
+Vmap Positif : 7.54844643225e-06
+Vmap Negatif : 3.77521430225e-05
+Vmap Netral : 8.14914335797e-06
+negatif
+
+3099
+Tweet :  Diadakan pertandingan di danau toba  parapat 65. Suku \nTidak lama lagi senggarakan
+ada tanding danau toba lama 
+Vmap Positif : 8.82143591564e-14
+Vmap Negatif : 3.10749257506e-11
+Vmap Netral : 1.35221017244e-11
+negatif
+
+3100
+Tweet :  Danau Buatan di Samosir Ini Bukti Kecerdasan Ompung Kita Dulu... https://t.co/aIC5qenIfY #netralnews https://t.co/zm7G4EAQI1
+danau buat bukti cerdas 
+Vmap Positif : 1.84417599081e-12
+Vmap Negatif : 2.13181449594e-12
+Vmap Netral : 3.90260639919e-13
+negatif
+
+3109
+Tweet :  Isu Penggusuran di Kawasan Danau Toba. https://t.co/HbVPEjIA32
+isu gusur danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 1.25502731442e-10
+negatif
+
+3110
+Tweet :  RT @Eti28_: Katanya bu eka mau pulkam kemedan, ditanyain mau oleh2 apa, dahlah akumah cukup bawain air danau toba aja dah cukup.
+kata mau medan mau dah danau toba 
+Vmap Positif : 9.27819506715e-21
+Vmap Negatif : 5.5420532144e-19
+Vmap Netral : 2.36967295097e-19
+negatif
+
+3123
+Tweet :  ih orang indonesia itu kaosnya danau toba https://t.co/OX572V70Qr
+kaos danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3125
+Tweet :  Pesan dr Danau TOBA\n\nBuluh rahim,  Tuba Palopi\nJangan menjadi BUTA karena kekuasaan, lalu berbuat TABU,  segeralah berTOBAt #harikartini
+pesan danau toba jadi buta kuasa buat segera tobat 
+Vmap Positif : 1.50194158889e-26
+Vmap Negatif : 7.00810716073e-25
+Vmap Netral : 1.80367084059e-26
+negatif
+
+3127
+Tweet :  @rahmananduck haha engga sengaja dik plg dr danau toba ternyata lwt situ. Parah sih, ngerasa dulu tuh sekolah cm buat dibego2in.
+tidak danau toba nyata parah sekolah 
+Vmap Positif : 1.68579649817e-17
+Vmap Negatif : 2.70565299989e-15
+Vmap Netral : 6.55827375284e-16
+negatif
+
+3136
+Tweet :  Pecundang slalu cr kesalahan pemenang, biasa jd penjilat spt ruhut, klen makan aja si ahok sunan kalijodo bawa ke d\u2026 https://t.co/iNxooaU6Fd
+cundang salah menang biasa jadi jilat 
+Vmap Positif : 1.30356971242e-20
+Vmap Negatif : 1.49319899378e-20
+Vmap Netral : 4.10338211669e-22
+negatif
+
+3137
+Tweet :  @ricaricaricha @gudrilla @habibthink SELINGKARAN DANAU TOBA haha
+lingkar danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3142
+Tweet :  Di kampung tepi danau Toba, mungkin \"Kartini\" tak akan pernah muncul sebab kebudayaan  disana sudah \"Gender Egaliter\" #KartiniDay
+danau toba tak muncul budaya sana 
+Vmap Positif : 2.73099032704e-16
+Vmap Negatif : 8.35078086387e-16
+Vmap Netral : 3.30056914359e-16
+negatif
+
+3145
+Tweet :  Telkomsel melambat bermasalah dan chip XL gak sengaja jatuh di Danau Toba.. gak mungkin bergantung sama indosat.. jadi milih????
+lambat masalah tidak jatuh danau toba tidak gantung sama jadi 
+Vmap Positif : 1.89942656671e-31
+Vmap Negatif : 2.59481890979e-25
+Vmap Netral : 2.81964130762e-26
+negatif
+
+3150
+Tweet :  Kenapalah bg crew tempat sebegini bosan.. \ud83d\ude2d Danau Toba dah la 4jam dr sini.
+kenapa begini bosan danau toba 
+Vmap Positif : 4.90079773091e-15
+Vmap Negatif : 2.21963755362e-13
+Vmap Netral : 2.8992499409e-14
+negatif
+
+3155
+Tweet :  Fresh kembali \u263a\u263a (with Mommy, Suamiku, and Namboru at Danau Toba) \u2014 https://t.co/tK5RE5OTxV
+suami danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3156
+Tweet :  RT @MongabayID: Penambangan Batu Menggila di Tepian Danau Toba https://t.co/fEYzdlisRm @GreenpeaceID https://t.co/8vfv4p4D8P
+tambang gila tepi danau toba 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 6.80688849776e-10
+Vmap Netral : 5.7984998818e-13
+negatif
+
+3162
+Tweet :  @chaeyogstakis Tae pen w celupkan ae lu ke danau toba
+celup danau toba 
+Vmap Positif : 8.3871627025e-07
+Vmap Negatif : 1.45200550087e-06
+Vmap Netral : 9.05460373108e-07
+negatif
+
+3176
+Tweet :  \ud83d\udc47loc : tepian danau toba , Paropo\u2026 https://t.co/ax0yx4Acdu
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+3195
+Tweet :  Percayalah, menunggu itu ga enak!\n#apalahapalah @ Inna Parapat Hotel https://t.co/5AWAJxCrsg
+percaya tunggu tidak enak 
+Vmap Positif : 8.45042641014e-15
+Vmap Negatif : 5.55231428203e-13
+Vmap Netral : 1.84053998451e-14
+negatif
+
+3198
+Tweet :  Holiday babee.. Lelah keliling danau\u2026 (w/ Theopilus, Ira, &amp; bibi mertua n abang ipar at Hotel Niagara Parapat) \u2014 https://t.co/wP7ylHcSUa
+lelah danau 
+Vmap Positif : 4.64132243968e-06
+Vmap Negatif : 3.1377484726e-05
+Vmap Netral : 2.78208254327e-05
+negatif
+
+3201
+Tweet :  Habis pulang ibadah #cekleksikit @ Pasir Putih Parbaba ( Danau Toba ) https://t.co/dHikoVJkUF
+habis ibadah danau toba 
+Vmap Positif : 1.28224471832e-10
+Vmap Negatif : 2.29436535126e-09
+Vmap Netral : 5.02010925767e-10
+negatif
+
+3207
+Tweet :  @fadjroeL Jangan lupa juga Bang Fadjroel. Mampir lah ke Danau Toba dan Pulau Samosir. Kita minum kopi di Kota Parapat.
+jangan lupa danau toba 
+Vmap Positif : 9.16804973596e-09
+Vmap Negatif : 3.90042109714e-08
+Vmap Netral : 1.38053004586e-08
+negatif
+
+3208
+Tweet :  Duet maut dari dulu\ud83d\udc4a\ud83d\udc4a @ Danau Toba, Parapat, Sumatera Utara https://t.co/VmozOVgDnP
+duet maut danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+
+3219
+Tweet :  RT @panca66: Setelah dari Kepri #IndonesiaBerlari2045 akan lanjut ke Sumut di tepian Danau Toba https://t.co/bB3XT8f42u
+telah tepi danau toba 
+Vmap Positif : 5.12897887326e-10
+Vmap Negatif : 1.96659887251e-08
+Vmap Netral : 6.27513657208e-09
+negatif
+
+3220
+Tweet :  RT @panca66: Setelah dari Kepri #IndonesiaBerlari2045 akan lanjut ke Sumut di tepian Danau Toba https://t.co/bB3XT8f42u
+telah tepi danau toba 
+Vmap Positif : 5.12897887326e-10
+Vmap Negatif : 1.96659887251e-08
+Vmap Netral : 6.27513657208e-09
+negatif
+
+3221
+Tweet :  Setelah dari Kepri #IndonesiaBerlari2045 akan lanjut ke Sumut di tepian Danau Toba https://t.co/bB3XT8f42u
+telah tepi danau toba 
+Vmap Positif : 5.12897887326e-10
+Vmap Negatif : 1.96659887251e-08
+Vmap Netral : 6.27513657208e-09
+negatif
+
+3224
+Tweet :  @fransiskancis Gmn klo mbak Siska nongkrong dikampung awak ajah dulu, Danau Toba. Gk kalah kece kok dibanding Lombok. \ud83d\ude0a
+kampung danau toba tidak kalah kece banding 
+Vmap Positif : 5.15455281508e-22
+Vmap Negatif : 6.10756884852e-19
+Vmap Netral : 8.24851161957e-20
+negatif
+
+3227
+Tweet :  Dikirim beginian dari Danau Toba. Thank you so much sissy!!! Ditunggu oleh2 nya besok\u2026 (w/ CHILA_Ceciliaa) [pic] \u2014 https://t.co/ybemRQgpXl
+kirim begini danau toba tunggu 
+Vmap Positif : 7.35119659637e-14
+Vmap Negatif : 2.95951673816e-13
+Vmap Netral : 5.7984998818e-14
+negatif
+
+3228
+Tweet :  Pengajian anak smk TR dan BM delimasari di simajarunjung dan ketiga ras danau toba
+aji tiga danau toba 
+Vmap Positif : 1.92336707747e-10
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 8.36684876278e-11
+negatif
+
+3240
+Tweet :  RT @Darmansyah_SV: Belom nyampe seperempat kelilingin danau Toba. Asli gede bat :v https://t.co/rRd2xkhQ9c
+bom empat danau toba asli 
+Vmap Positif : 1.47023931927e-14
+Vmap Negatif : 7.39879184539e-14
+Vmap Netral : 2.8992499409e-14
+negatif
+
+3247
+Tweet :  https://t.co/20hdRmIK6m \u2190 #bokep #seks #bisyar #meki #toket #pijatplus #toge Bokep Father In Law Di Rumah Pinggiran Danau Toba Ini, Soekar\u2026
+seks mek pinggir danau toba 
+Vmap Positif : 3.43055841164e-14
+Vmap Negatif : 1.47975836908e-13
+Vmap Netral : 6.18506654059e-14
+negatif
+
+3251
+Tweet :  Jalan2 ke #Danau Toba sambil ketawa-tawa. Mana nih followers ga nambah2, mati aja dah gua :( #pantun
+jalan danau toba tidak tambah mati pantun :( 
+Vmap Positif : 3.1521497111e-24
+Vmap Negatif : 2.82078687677e-18
+Vmap Netral : 4.20030454895e-20
+negatif
+
+3253
+Tweet :  Danau Toba dan keindahannya seperti tak pernah habis menyihirku untuk terus terkesima.\nAku\u2026 https://t.co/5cFlxH60Jl
+danau toba indah tak habis sihir kesima 
+Vmap Positif : 3.91746013946e-20
+Vmap Negatif : 1.31953647962e-18
+Vmap Netral : 2.17847845895e-20
+negatif
+
+3255
+Tweet :  Main air dan menggosongkan wajah\ud83d\ude48 @ Paropo Danau Toba https://t.co/owF5emu4kl
+main gosong danau toba 
+Vmap Positif : 7.69346830989e-10
+Vmap Negatif : 1.311065915e-09
+Vmap Netral : 9.20353363906e-10
+negatif
+
+3260
+Tweet :  Belom nyampe seperempat kelilingin danau Toba. Asli gede bat :v https://t.co/rRd2xkhQ9c
+bom empat danau toba asli 
+Vmap Positif : 1.47023931927e-14
+Vmap Negatif : 7.39879184539e-14
+Vmap Netral : 2.8992499409e-14
+negatif
+
+3280
+Tweet :  Syeenaaaaaaaaaangnyaaaaaa \ud83d\ude02\ud83d\ude06\ud83d\ude06\u270c\n#1 @ Paropo tepian Danau Toba https://t.co/rCi7jWJMQH
+tepi danau toba 
+Vmap Positif : 3.354865081e-06
+Vmap Negatif : 2.90401100173e-05
+Vmap Netral : 2.26365093277e-05
+negatif
+
+3282
+Tweet :  https://t.co/qhjWZv90rZ tau gak sih, asal usul danau toba #news #berita
+tau tidak asal danau toba 
+Vmap Positif : 8.82143591564e-13
+Vmap Negatif : 1.51024139148e-09
+Vmap Netral : 7.88595983925e-11
+negatif
+
+3289
+Tweet :  Karena kita sadari Danau Toba itu Menakjubkan.\n- Ayo Ke Danau Toba -\n#wongryant #wongryantours\u2026 https://t.co/mMRnRkl2gz
+sadar danau toba takjub danau toba 
+Vmap Positif : 4.2633029211e-12
+Vmap Negatif : 6.38884840771e-12
+Vmap Netral : 4.96883931678e-12
+negatif
+
+3291
+Tweet :  Susahnya cari penginapan (@ Danau Toba in Simalungun, Sumatera Utara) https://t.co/T2vUAQwQ1V
+susah cari inap danau toba 
+Vmap Positif : 1.96031909236e-14
+Vmap Negatif : 7.39879184539e-13
+Vmap Netral : 1.93283329393e-14
+negatif
+
+3300
+Tweet :  Akhirnya nemu kasur.. (at Danau Toba Hotel, Hermina Retreat) \u2014 https://t.co/aG0YXAfECv
+akhir temu danau toba 
+Vmap Positif : 1.92336707747e-09
+Vmap Negatif : 1.14718267563e-07
+Vmap Netral : 3.91568522098e-08
+negatif
+
+3302
+Tweet :  #BEHIND_THE_SCENE\nVidio klip seng wingi_wingi\n#Danau_Toba\n#Pulau_Holle https://t.co/GH6tZUOop2
+wing wing danau toba 
+Vmap Positif : 6.41122359158e-11
+Vmap Negatif : 3.27766478751e-10
+Vmap Netral : 4.18342438139e-11
+negatif
+

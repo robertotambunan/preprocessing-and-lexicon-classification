@@ -106,7 +106,7 @@ def stemming(tweet):
 
 
 
-connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining3000")
+connection = MySQLdb.connect (host = "127.0.0.1", user = "root", passwd = "", db = "opinionmining")
 cursor = connection.cursor()
 cursor.execute("SELECT tweets, id_tweetmentah FROM tweetmentah")
 data = cursor.fetchall()
@@ -132,7 +132,7 @@ kosakata = cursor.fetchone()[0]
 
 
 for row in data:
-	if count >= 10686:
+	if count >= 8000:
 		idTweet = row[1]
 		sentence = row [0]
 		removeUrlResult = removeURL(sentence)
@@ -154,8 +154,8 @@ for row in data:
 			VMapNetral = 1
 
 		splitWord = stemmingResult.split()
-		print count-10685
-		print stemmingResult
+		#print count-7999
+		#print stemmingResult
 		
 
 
@@ -192,10 +192,10 @@ for row in data:
 
 
 
-			print rowSplitWord
-			print "NK Positif = ", nkPositif
-			print "NK Negatif = ", nkNegatif
-			print "NK Netral = ", nkNetral
+			#print rowSplitWord
+			#print "NK Positif = ", nkPositif
+			#print "NK Negatif = ", nkNegatif
+			#print "NK Netral = ", nkNetral
 			#Menghitung vmap per kata untuk positif
 			perhitunganPositif = (nkPositif+1)/float(sumPositif+kosakata)
 
@@ -226,32 +226,31 @@ for row in data:
 
 		#Memberikan nilai default untuk skor
 		hasil = "netral"
-		skors = 0
 
 		#Memberikan hasil akhir dari sebuah tweet
 		if VMapPositif > VMapNegatif and VMapPositif > VMapNetral:
 			hasil = "positif"
-			skors = "1"
+			print count-7999
+			print "Tweet : " , sentence
+			print stemmingResult
+			print "Vmap Positif :",VMapPositif
+			print "Vmap Negatif :",VMapNegatif
+			print "Vmap Netral :",VMapNetral
+
+			print hasil
+			print ""
 		if VMapNegatif > VMapPositif and VMapNegatif > VMapNetral:
 			hasil = "negatif"
-			skors = "-1"
+			
 		if VMapNetral > VMapPositif and VMapNetral > VMapNegatif:
 			hasil = "netral"
-			skors = "0"
 
-		print "Vmap Positif :",VMapPositif
-		print "Vmap Negatif :",VMapNegatif
-		print "Vmap Netral :",VMapNetral
+		#print "Vmap Positif :",VMapPositif
+		#print "Vmap Negatif :",VMapNegatif
+		#print "Vmap Netral :",VMapNetral
 
-		print hasil
-		print ""
-		try:
-			cursor.execute("""INSERT INTO hasil_nb (id_tweetmentah, tweets, skor) VALUES (%s,%s,%s)""",(idTweet, stemmingResult, skors))
-			connection.commit()
-		except TypeError as e:
-			print(e)
-			connection.rollback()
-			print "failed"
+		#print hasil
+		#print ""
 
 	count += 1
 
